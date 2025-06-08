@@ -1,0 +1,406 @@
+id,name,company_id,title,group,sub_vertical,email,phone,secondary_phone,city,state,country,birthday,coverage_person,preferred_contact_method,tier
+1,Robert Baltimore,92,Managing Director,Business Services,Business Services,bbaltimore@harriswilliams.com,+18046480072,,Richmond,VA,US,1966-02-25,Hannah Jumper,Email,1.0
+2,Brian Lucas,92,Managing Director,Business Services,Business Services,blucas@harriswilliams.com,+18046480072,,Richmond,VA,US,1953-09-03,Kripa Shah,Business Phone,1.0
+3,Luke Semple,92,Managing Director,Business Services,Business Services,lsemple@harriswilliams.com,+18046480072,,Richmond,VA,US,1962-03-27,Emily Royal,Cell Phone,1.0
+4,Drew Spitzer,92,Managing Director,Business Services,Business Services,aspitzer@harriswilliams.com,+18046480072,,Richmond,VA,US,1964-04-28,Russ Barner,Business Phone,1.0
+5,Derek Lewis,92,Managing Director,Business Services,Business Services,dlewis@harriswilliams.com,+18046480072,,Richmond,VA,US,1971-04-24,Daniel Ding,Cell Phone,1.0
+6,Taylor Morris,92,Vice President,Business Services,Business Services,tmorris@harriswilliams.com,+18046480072,,Richmond,VA,US,1970-11-18,Daniel Ding,Cell Phone,1.0
+7,Andrew Jessen,66,Managing Director,Business Services,Product Group,ajesseen@williamblair.com,+13123645390,,Chicago,IL,US,1966-02-22,Emily Royal,Email,1.0
+8,Mark Brady,66,Managing Director,Business Services,Business Services,mbrady@williamblair.com,+13123648853,,Chicago,IL,US,1959-06-13,Kripa Shah,Email,1.0
+9,Andrew Miller,66,Managing Director,Business Services,Business Services,amiller@williamblair.com,+13123645158,,Chicago,IL,US,1951-12-17,Russ Barner,Email,1.0
+10,Dan Daul,66,Managing Director,Business Services,Payments,ddaul@williamblair.com,+13123648457,,Chicago,IL,US,1972-01-01,Hannah Jumper,Email,1.0
+11,Dan Connolly,66,Managing Director,Business Services,Payments,dconnolly@williamblair.com,+13123648544,,Chicago,IL,US,1976-07-28,Hannah Jumper,Cell Phone,1.0
+12,Spencer Crawford,66,Director,Business Services,Payments,scrawford@williamblair.com,+14157966491,,Chicago,IL,US,1959-06-26,Jeannie Blackwood,Business Phone,1.0
+13,Brad Page,66,Managing Director,Business Services,Industrial & Environmental Services,bpage@williamblair.com,+13123648969,,Chicago,IL,US,1946-02-10,Jeannie Blackwood,Cell Phone,1.0
+14,Jim Suprenant,66,Managing Director,Business Services,Technology Services,jsuprenant@williamblair.com,+13123648592,,Chicago,IL,US,1963-11-01,Emily Royal,Cell Phone,1.0
+15,Britt Trukenbrod,66,Managing Director; Co-Head of Business Services,Business Services,Technology Services,btrukenbrod@williamblair.com,+13123648840,,Chicago,IL,US,1978-05-03,Kripa Shah,Cell Phone,1.0
+16,Todd Noffke,82,Co-Head of Global Services; Managing Director,Business Services,Business Services,todd.noffke@credit-suisse.com,+13127502979,,Chicago,IL,US,1940-07-03,Kripa Shah,Cell Phone,1.0
+17,John Pilant ,82,Co-Head of Global Services; Managing Director,Business Services,Industrial & Environmental Services,john.pilant@credit-suisse.com,+13127503324,,Chicago,IL,US,1964-02-06,Emily Royal,Business Phone,1.0
+18,Christopher Doolin,82,Director,Business Services,Business Services,christopher.doolin@credit-suisse.com,+13127502907,,Chicago,IL,US,1943-04-07,Russ Barner,Cell Phone,1.0
+19,Aaron Kaplan,82,Director,Business Services,Industrial & Environmental Services,aaron.kaplan@credit-suisse.com,+13127502955,,Chicago,IL,US,1970-07-03,Daniel Ding,Business Phone,1.0
+20,Jonathon Kaufman,82,Head of Power & Utilities; Managing Director,Business Services,Industrial & Environmental Services,jonathon.kaufman@credit-suisse.com,+12123252963,,New York,NY,US,1983-05-30,Hannah Jumper,Cell Phone,1.0
+21,Jeff Murphy,82,Managing Director,Business Services,Data & Information Services,jeff.murphy@credit-suisse.com,+12123253367,,New York,NY,US,1982-03-20,Kripa Shah,Email,1.0
+22,Simon Auerbach,82,Managing Director,Business Services,Data & Information Services,simon.auerbach@credit-suisse.com,+12123254104,,New York,NY,US,1970-01-19,Emily Royal,Cell Phone,1.0
+23,Craig Oxman,82,Vice Chairman of Global Industrials Group; Managing Director,Business Services,Industrial & Environmental Services,craig.oxman@credit-suisse.com,+12123252796,,New York,NY,US,1954-07-10,Daniel Ding,Cell Phone,1.0
+24,Gerald Lodge,82,Vice Chairman of IBCM; Managing Director,Business Services,Industrial & Environmental Services,gerald.lodge@credit-suisse.com,+12123252174,,New York,NY,US,1943-04-06,Daniel Ding,Business Phone,1.0
+25,Dhiren Shah,82,Managing Director,Business Services,Technology Services,dhiren.shah@credit-suisse.com,,,New York,NY,US,1950-09-08,Emily Royal,Cell Phone,1.0
+26,Ed Wehle,190,Head of Tech Services; Managing Director,Business Services,Technology Services,edward.wehle@db.com,+12122500753,,New York,NY,US,1943-06-08,Russ Barner,Cell Phone,1.0
+27,Jeffrey Rose,190,Global Co-Head of Consumer; Retail and Services; Managing Director,Business Services,Business Services,jeffrey.rose@db.com,+12122507555,,New York,NY,US,1978-05-21,Daniel Ding,Business Phone,1.0
+28,Scott Bell,190,Global Co-Head of Consumer; Retail and Services; Managing Director,Business Services,Business Services,scott.bell@db.com,+442075458741,,,,UK,1964-10-06,Daniel Ding,Cell Phone,1.0
+29,Michael Henry,190,Global Head of Business Services; Managing Director,Business Services,Business Services,michael.c.henry@db.com,+12122505674,,New York,NY,US,1946-09-09,Emily Royal,Business Phone,1.0
+30,Erik Carneal,190,Managing Director,Business Services,Business Services,erik.carneal@db.com,+12122508483,,New York,NY,US,1962-05-09,Kripa Shah,Cell Phone,1.0
+31,Cristiano Lima,190,Managing Director,Business Services,Business Services,cristiano.lima@db.com,+12122508519,,New York,NY,US,1953-05-29,Russ Barner,Cell Phone,1.0
+32,Rex Green,418,Managing Director,Business Services,Business Services,rhgreen@jefferies.com,+16173427886,,Boston,MA,US,1952-05-02,Hannah Jumper,Email,1.0
+33,Richard Burke,418,Managing Director,Business Services,Business Services,rburke@jefferies.com,+12127076436,,New York,NY,US,1976-01-25,Hannah Jumper,Email,1.0
+34,Jonathan Carey,418,Managing Director,Business Services,Business Services,jcarey@jefferies.com,+16173427865,,Boston,MA,US,1953-07-06,Jeannie Blackwood,Email,1.0
+35,Mauro Souza,418,Managing Director,Business Services,Industrial & Environmental Services,msouza@jefferies.com,,,New York,NY,US,1967-06-18,Kripa Shah,Cell Phone,1.0
+36,Jeff Pranaitis,418,Managing Director,Business Services,Specialty Distribution,jpranaitis@jefferies.com,,,New York,NY,US,1983-11-18,Emily Royal,Business Phone,1.0
+37,Todd Wilson,418,Managing Director,Business Services,Facilities Services,twilson@jefferies.com,,,New York,NY,US,1943-01-05,Russ Barner,Email,1.0
+38,Whitney Horne,418,Managing Director,Business Services,Business Services,whorne@jefferies.com,,,New York,NY,US,1972-07-22,Daniel Ding,Cell Phone,1.0
+39,Chris Roehm,418,Managing Director,Business Services,Business Services,croehm@jefferies.com,,,New York,NY,US,1985-08-09,Daniel Ding,Business Phone,1.0
+40,Pat Iles,418,Managing Director,Business Services,Industrial & Environmental Services,piles@jefferies.com,,,New York,NY,US,1971-03-20,Emily Royal,Cell Phone,1.0
+41,Scott Driggs,418,Managing Director,Business Services,Technology Services,sdriggs@jefferies.com,,,New York,NY,US,1960-07-04,Kripa Shah,Business Phone,1.0
+42,Patrick Bailey,418,Managing Director,Business Services,Technology Services,pbailey@jefferies.com,,,New York,NY,US,1979-12-17,Russ Barner,Cell Phone,1.0
+43,Michael Long,418,Managing Director,Business Services,Technology Services,mlong@jefferies.com,,,New York,NY,US,1980-08-21,Hannah Jumper,Cell Phone,1.0
+44,Dan Gitlin,418,Managing Director,Business Services,Industrial & Environmental Services,dgitlin@jefferies.com,,,New York,NY,US,1968-08-06,Hannah Jumper,Email,1.0
+45,Michael Macakanja,220,Managing Director,Business Services,Business Services,michael.macakanja@jpmorgan.com,+13127327160,,Chicago,IL,US,1952-06-28,Jeannie Blackwood,Email,1.0
+46,Scott Joyce,220,Managing Director,Business Services,Business Services,scott.p.joyce@jpmorgan.com,+17032875942,,Virginia,VA,US,1984-03-11,Russ Barner,Email,1.0
+47,Mark Pinsky,220,Managing Director,Business Services,Business Services,mark.b.pinsky@jpmorgan.com,+13127323440,,Chicago,IL,US,1980-09-29,Emily Royal,Cell Phone,1.0
+48,Dana Weinstein,220,Managing Director,Business Services,Business Services,dana.weinstein@jpmorgan.com,+12126226226,,New York,NY,US,1972-05-18,Kripa Shah,Business Phone,1.0
+49,Amar Mehta,220,Executive Director,Business Services,Technology Services,amar.x.mehta@jpmorgan.com,+12126225111,,New York,NY,US,1966-04-10,Hannah Jumper,Cell Phone,1.0
+50,Andrew Verdasca,220,Executive Director,Business Services,Technology Services,andrew.verdasca@jpmorgan.com,+12126224260,,New York,NY,US,1966-04-24,Jeannie Blackwood,Cell Phone,1.0
+51,Gregory Mendelson,220,Managing Director,Business Services,Technology Services,gregory.mendelson@jpmorgan.com,+12126229187,,New York,NY,US,1959-06-09,Kripa Shah,Cell Phone,1.0
+52,Pearse Davidson,220,Executive Director,Business Services,Business Services,pearse.r.davidson@jpmorgan.com,+12126229659,,New York,NY,US,1974-06-27,Emily Royal,Cell Phone,1.0
+53,Stellar Tucker,49,Managing Director; Head of Business Services,Business Services,Business Services,stellar.tucker@ubs.com,+12128216111,,New York,NY,US,1952-11-16,Emily Royal,Email,1.0
+54,Sara Coyle,49,Managing Director,Business Services,Specialty Distribution,sara.coyle@ubs.com,+12128213391,,New York,NY,US,1969-09-19,Kripa Shah,Cell Phone,1.0
+55,Ken Kloner,49,Managing Director; Vice Chairman; Global Industrials,Business Services,Industrial & Environmental Services,ken.kloner@ubs.com,+12128214789,,New York,NY,US,1978-05-23,Emily Royal,Cell Phone,1.0
+56,Charles Otton,49,Managing Director; Co-Global Head of Global Industrials Group,Business Services,Industrial & Environmental Services,charles.otton@ubs.com,+12128215425,,New York,NY,US,1955-06-21,Russ Barner,Cell Phone,1.0
+57,Simon Smith,49,Managing Director; Vice Chairman; Global Industrials,Business Services,Industrial & Environmental Services,simon.smith@ubs.com,+12128213651,,New York,NY,US,1981-12-08,Daniel Ding,Business Phone,1.0
+58,Greg Urban,49,Executive Director,Business Services,Industrial & Environmental Services,gregory.urban@ubs.com,,,New York,NY,US,1944-10-26,Daniel Ding,Email,1.0
+59,Aftab Shahsingh,49,Executive Director,Business Services,Industrial & Environmental Services,aftab.shahsingh@ubs.com,,,New York,NY,US,1956-02-24,Emily Royal,Cell Phone,1.0
+60,Brendan Ryan,283,Co-Head; Technology & Services,Business Services,Business Services,brendan.ryan@raymondjames.com,+16174705671,,Boston,MA,US,1957-11-15,Kripa Shah,Business Phone,1.0
+61,Garrett DeNinno,283,Senior Vice President,Business Services,Business Services,garrett.deninno@raymondjames.com,+16176247028,,Boston,MA,US,1967-09-24,Russ Barner,Cell Phone,1.0
+62,Jon Steele,283,Managing Director; Group Co-Head,Business Services,Business Services,jon.steele@raymondjames.com,+16176247020,,Boston,MA,US,1970-12-17,Hannah Jumper,Business Phone,1.0
+63,Ian O'Neal,283,Senior Vice President,Business Services,Business Services,ian.oneal@raymondjames.com,+16176247011,,Boston,MA,US,1943-08-14,Hannah Jumper,Cell Phone,1.0
+64,Christian Clifford,283,Vice President,Business Services,Business Services,christian.clifford@raymondjames.com,+16176247077,,Boston,MA,US,1962-12-10,Jeannie Blackwood,Cell Phone,1.0
+65,Adam Dzaia,419,Managing Director,Business Services,Business Services,aczaia@rwbaird.com,+14142987358,,Milwaukee,WI,US,1969-05-18,Jeannie Blackwood,Email,1.0
+66,Chris McMahon,419,Managing Director,Business Services,Business Services,cmcmahon@rwbaird.com,+13126094983,,Chicago,IL,US,1949-10-28,Russ Barner,Email,1.0
+67,Kiran Paruchuru,419,Managing Director,Business Services,BPO,kparuchuru@rwbaird.com,+13126094926,,Chicago,IL,US,1944-08-11,Jeannie Blackwood,Business Phone,1.0
+68,Jordan Klein,419,Director,Business Services,BPO,jklein@rwbaird.com,+13126094978,,Chicago,IL,US,1981-12-22,Kripa Shah,Cell Phone,1.0
+69,Andrew Snow,419,Managing Director,Business Services,Education Services,asnow@rwbaird.com,+13126094972,,Chicago,IL,US,1968-07-17,Emily Royal,Cell Phone,1.0
+70,Dan Alfe,419,Managing Director,Business Services,Education Services,dalfe@rwbaird.com,+13126094922,,Chicago,IL,US,1942-09-05,Russ Barner,Cell Phone,1.0
+71,Matt Kessler,419,Director,Business Services,Technology Services,mkessler@rwbaird.com,+14156273223,,San Francisco,CA,US,1971-12-25,Daniel Ding,Cell Phone,1.0
+72,John Lanza,419,Managing Director,Business Services,Facilities Services,jlanza@rwbaird.com,+14142987669,,Milwaukee,WI,US,1983-05-21,Daniel Ding,Business Phone,1.0
+73,Ross Williams,419,Managing Director,Business Services,Facilities Services,rwilliams@rwbaird.com,+14142986235,,Milwaukee,WI,US,1960-07-19,Emily Royal,Email,1.0
+74,Bret Schoch,419,Managing Director,Business Services,Human Capital Services,bschoch@rwbaird.com,+13126094965,,Chicago,IL,US,1974-01-04,Kripa Shah,Cell Phone,1.0
+75,Brian Cole,419,Director,Business Services,Human Capital Services,bcole@rwbaird.com,+14142981702,,Milwaukee,WI,US,1964-09-16,Russ Barner,Business Phone,1.0
+76,John Moriarty,419,Managing Director,Business Services,Technology Services,jmoriarty@rwbaird.com ,+16508283811,,Palo Alto,CA,US,1962-02-10,Hannah Jumper,Cell Phone,1.0
+77,Mike Magluilo,419,Managing Director,Business Services,Technology Services,mmagluilo@rwbaird.com,+13034133818,,Boulder,CO,US,1952-07-14,Hannah Jumper,Business Phone,1.0
+78,Andrew Rippy,419,Managing Director,Business Services,Technology Services,arippy@rwbaird.com,+18777929132,,Portland,OR,US,1973-01-24,Jeannie Blackwood,Cell Phone,1.0
+79,Chase Sanders,419,Managing Director,Business Services,Technology Services,csanders@rwbaird.com,+12023031807,,Washington,D.C.,US,1947-11-19,Jeannie Blackwood,Cell Phone,1.0
+80,Craig Rogowski,419,Director,Business Services,Technology Services,crogowski@rwbaird.com,+16509476810,,Los Altos,CA,US,1963-05-23,Russ Barner,Email,1.0
+81,Chris Wofford,419,Managing Director,Business Services,Transportation & Logistics,cwofford@rwbaird.com,+16465573216,,New York,NY,US,1957-10-22,Emily Royal,Email,1.0
+82,Jeff Douthit,41,Head of Business Services,Business Services,Business Services,jeff.douthit@gs.com,+13126554618,,Chicago,IL,US,1978-04-09,Russ Barner,Cell Phone,1.0
+83,Ali Azim,41,Managing Director,Business Services,Business Services,ali.azim@gs.com,+13126555452,,Chicago,IL,US,1982-11-14,Hannah Jumper,Business Phone,1.0
+84,Alejandro Lulli,41,Vice President,Business Services,Business Services,alejandro.lulli@gs.com,+13126554557,,Chicago,IL,US,1970-07-03,Hannah Jumper,Cell Phone,1.0
+85,Fausto Monacelli,41,Managing Director,Business Services,Industrial & Environmental Services,fausto.monacelli@gs.com,+12129020203,+19173048472,New York,NY,US,1979-01-22,Jeannie Blackwood,Business Phone,1.0
+86,Glenn Riedman (Co-Head),420,Managing Director; Co-Head,Business Services,Financial Services,glenn.riedman@rbbcm.com,+12128634817,,New York,NY,US,1953-04-18,Jeannie Blackwood,Email,1.0
+87,Joshua Rosenbaum (Co-Head),420,Managing Director; Co-Head,Business Services,Industrial & Environmental Services,joshua.rosenbaum@rbbcm.com,+12122999835,,New York,NY,US,1941-02-09,Kripa Shah,Email,1.0
+88,Cliff Bayer (Head of A&D),420,Managing Director,Business Services,Industrial & Environmental Services,cliff.bayer@rbbcm.com,+12128634810,,New York,NY,US,1967-11-17,Emily Royal,Email,1.0
+89,Colin Cropper,420,Managing Director,Business Services,Industrial & Environmental Services,colin.cropper@rbbcm.com,+12123011478,,New York,NY,US,1945-12-21,Russ Barner,Email,1.0
+90,Gaddy Cohen,420,Managing Director,Business Services,Financial Services,gaddy.cohen@rbbcm.com,+12123010019,,New York,NY,US,1948-12-28,Daniel Ding,Cell Phone,1.0
+91,Andrew Karnovsky,420,Director,Business Services,Industrial & Environmental Services,andrew.karnovsky@rbbcm.com,+12129055922,,New York,NY,US,1954-07-25,Daniel Ding,Business Phone,1.0
+92,Scot Berg,420,Director,Business Services,Financial Services,scot.berg@rbbcm.com,+12126187643,,New York,NY,US,1960-07-02,Emily Royal,Cell Phone,1.0
+93,Calvin Simonson,420,Director,Business Services,Industrial & Environmental Services,calvin.simonson@rbbcm.com,+12124286416,,New York,NY,US,1965-06-26,Kripa Shah,Cell Phone,1.0
+94,Adam Trigg,420,Director,Business Services,Industrial & Environmental Services,adam.trigg@rbbcm.com,+12124379245,,New York,NY,US,1957-05-10,Russ Barner,Cell Phone,1.0
+95,Matt Thomson,420,Managing Director,Business Services,Transportation & Logistics,matt.thomson@rbbcm.com,+12126183287,,New York,NY,US,1966-12-08,Hannah Jumper,Cell Phone,1.0
+96,Susan Wolford,77,Managing Director; Global Head,Business Services,Education Services,susan.wolford@bmo.com,+12127021111,,New York,NY,US,1943-09-20,Daniel Ding,Email,1.0
+97,Rob Weber,77,Managing Director,Business Services,Data & Information Services,rob.weber@bmo.com,+12127021192,,New York,NY,US,1946-03-07,Daniel Ding,Email,1.0
+98,Steve Hull,77,Managing Director,Business Services,Transportation & Logistics,steve.hull@bmo.com,+13124614164,,Chicago,IL,US,1959-12-30,Russ Barner,Cell Phone,1.0
+99,Wes Harrington,77,Director,Business Services,Industrial & Environmental Services,wes.harrington@bmo.com,+13124616531,,Chicago,IL,US,1966-06-03,Emily Royal,Business Phone,1.0
+100,Tej Bhattal,77,Managing Director,Business Services,Specialty Distribution,tej.bhattal@bmo.com,+13124613593,,Chicago,IL,US,1971-11-08,Kripa Shah,Email,1.0
+101,Tim Curley,77,Director,Business Services,Industrial & Environmental Services,tim.curley@bmo.com,+12127021118,,New York,NY,US,1965-09-11,Hannah Jumper,Cell Phone,1.0
+102,Shabari Nayak,77,Managing Director,Business Services,Industrial & Environmental Services,shabari.nayak@bmo.com,+12127021119,,New York,NY,US,1976-12-13,Jeannie Blackwood,Business Phone,1.0
+103,Steve Nielsen,77,Managing Director,Business Services,Industrial & Environmental Services,steve.nielsen@bmo.com,+12127021924,,New York,NY,US,1946-09-17,Kripa Shah,Cell Phone,1.0
+104,Pierre-Olivier Perras,77,Managing Director; Global Head,Business Services,Business Services,pierre-olivier.perras@bmo.com,+15142825912,,Toronto,CA,US,1950-09-28,Emily Royal,Business Phone,1.0
+105,Aaron Engen,77,Managing Director; Global Head,Business Services,Business Services,aaron.engen@bmo.com,+14035151560,,Toronto,CA,US,1957-05-15,Russ Barner,Cell Phone,1.0
+106,Lyle Wilpon,77,Managing Director; Co-Head of U.S. M&A,Business Services,Product Group,lyle.wilpon@bmo.com,+12127021738,,New York,NY,US,1948-05-06,Daniel Ding,Cell Phone,1.0
+107,Seth Prostic,77,Managing Director; Co-Head of U.S. M&A,Business Services,Technology Services,seth.prostic@bmo.com,+13122938365,,Chicago,IL,US,1944-04-18,Daniel Ding,Email,1.0
+108,Eric Nicholson,77,Managing Director; Head of U.S. Middle Market M&A,Business Services,Product Group,eric.nicholson@bmo.com,+12127021131,,New York,NY,US,1954-12-23,Emily Royal,Email,1.0
+109,Pierre Oustinow,77,Managing Director,Business Services,Technology Services,pierre.oustinow@bmo.com,+16179602368,,Boston,MA,US,1940-10-09,Kripa Shah,Email,1.0
+110,Robert Lee,77,Managing Director,Business Services,Technology Services,robert.lee@bmo.com,+14153547534,,San Francisco,CA,US,1985-11-17,Russ Barner,Email,1.0
+111,Stephen Gerson,39,Managing Director; Co-Head of BTS Investment Banking,Business Services,Financial Technology,stephen.gerson@wellsfargo.com,+12122148245,,Charlotte,NC,US,1973-02-10,Jeannie Blackwood,Cell Phone,1.0
+112,Doug Sleeper,39,Managing Director; Co-Head of BTS Investment Banking,Business Services,Data & Information Services,doug.sleeper@wellsfargo.com,+17044101242,,New York,NY,US,1966-08-21,Russ Barner,Cell Phone,1.0
+113,Kwame Yankson,39,Vice President,Business Services,Human Capital Services,kwame.yankson@wellsfargo.com,+17044101294,,Charlotte,NC,US,1979-11-07,Hannah Jumper,Email,1.0
+114,Jonathan Kaye,421,Managing Director,Business Services,Business Services,jonathan.kaye@moelis.com,+12128833540,,New York,NY,US,1952-05-04,Russ Barner,Cell Phone,1.0
+115,Matt Hughes,421,Managing Director,Business Services,Product Group,matthew.hughes@moelis.com,+12128836325,,New York,NY,US,1980-10-17,Emily Royal,Cell Phone,1.0
+116,Brian McDonald,52,Managing Director,Business Services,Business Services,bmcdonald@hl.com,+12124974238,+16464130042,New York,NY,US,1956-02-04,Kripa Shah,Cell Phone,1.0
+117,Jeff Ackerman,52,Director,Business Services,Business Services,jackerman@hl.com,+12124974100,+12124977866,New York,NY,US,1985-10-30,Emily Royal,Cell Phone,1.0
+118,Edward Fitzgerald,350,Managing Director; Head of Technology Services,Business Services,Technology Services,edward.d.fitzgerald@baml.com,+16468553866,,New York,NY,US,1961-07-14,Kripa Shah,Business Phone,1.0
+119,Seth Bergstein,422,Head of Global Services,Business Services ,Insurance,seth.bergstein@morganstanley.com,+12127617019,,New York,NY,US,1941-12-18,Russ Barner,Cell Phone,1.0
+120,Bryce Facktor,422,Head of Business Services,Business Services ,Business Services,bryce.facktor@morganstanley.com,+12127614506,,New York,NY,US,1970-03-16,Emily Royal,Cell Phone,1.0
+121,Paul Wasinger,422,Head of Processing and Payments,Business Services ,Payments,paul.wasinger@morganstanley.com,+12127610687,,New York,NY,US,1977-12-15,Kripa Shah,Email,1.0
+122,Robert Patterson,422,Managing Director,Business Services ,Technology Services,robert.patterson@morganstanley.com,+12127613435,,New York,NY,US,1956-01-29,Hannah Jumper,Email,1.0
+123,Sandeep Sharma,422,Executive Director,Business Services ,IT Services,sandeep.sharma@morganstanley.com,+12127612478,,New York,NY,US,1978-12-06,Jeannie Blackwood,Email,1.0
+124,Ryan Fernandes,422,Executive Director,Business Services ,Business Services,ryan.fernandes@morganstanley.com,+12127614418,,New York,NY,US,1960-07-21,Kripa Shah,Email,1.0
+125,Robert Kindler,422,Vice Chairman of ISG; Global Head of M&A,Business Services ,Product Group,robert.kindler@morganstanley.com,+12127617895,,New York,NY,US,1943-08-21,Daniel Ding,Cell Phone,1.0
+126,Steve Munger,422,Chairman of Global M&A,Business Services ,Industrial & Environmental Services,steve.munger@morganstanley.com,+12127614257,,New York,NY,US,1961-12-15,Emily Royal,Cell Phone,1.0
+127,Tedd Smith,422,Managing Director,Business Services ,Business Services,tedd.smith@morganstanley.com,+12127617310,,New York,NY,US,1964-02-13,Kripa Shah,Cell Phone,1.0
+128,Brad Whitman,422,Managing Director,Business Services ,Business Services,brad.whitman@morganstanley.com,+12127617027,,New York,NY,US,1983-11-07,Russ Barner,Cell Phone,1.0
+129,Lee Einbinder,25,Managing Director; Co-Head of FIG,Financial Institutions,Financial Institutions,lee.einbinder@barclays.com,+12125261616,,New York,NY,US,1980-09-24,Kripa Shah,Cell Phone,1.0
+130,Tom Vandever,25,Managing Director; Head of FIG Americas M&A,Financial Institutions,Product Group,tom.vandever@barclays.com,+12125266221,,New York,NY,US,1946-05-16,Hannah Jumper,Business Phone,1.0
+131,Janis Vitols,25,Managing Director,Financial Institutions,Asset Management,janis.vitols@barclays.com,+12125265098,,New York,NY,US,1948-12-10,Jeannie Blackwood,Email,1.0
+132,Ric Way,25,Director,Financial Institutions,Asset Management,frederic.way@barclays.com,+12125269430,,New York,NY,US,1976-03-08,Kripa Shah,Cell Phone,1.0
+133,Gary Antenberg,25,Co-Head of Insurance,Financial Institutions,Insurance,gary.antenberg@barclays.com,+12125269051,,New York,NY,US,1945-08-04,Emily Royal,Business Phone,1.0
+134,Amrit David,25,Managing Director,Financial Institutions,Insurance,amrit.david@barclays.com,+12125261065,,New York,NY,US,1978-05-08,Russ Barner,Cell Phone,1.0
+135,Ted Conway,25,Managing Director,Financial Institutions,Banks / Lending,edward.conway@barclays.com,+12125265198,,New York,NY,US,1974-08-08,Daniel Ding,Business Phone,1.0
+136,James Blanco,25,Managing Director,Financial Institutions,Banks / Lending,james.blanco@barclays.com,+12125287244,,New York,NY,US,1966-04-11,Daniel Ding,Cell Phone,1.0
+137,Joel Fleck,25,Managing Director,Financial Institutions,Financial Technology,joel.fleck@barclays.com,+12125264367,,New York,NY,US,1956-10-17,Emily Royal,Cell Phone,1.0
+138,Alejandro Przygoda,82,Global Head of Financial Institutions,Financial Services,Insurance,alejandro.przygoda@credit-suisse.com,+12123252444,,New York,NY,US,1959-01-28,Daniel Ding,Cell Phone,1.0
+139,James Spencer,82,Americas Head of Financial Insitutions,Financial Services,Banks / Lending,james.spencer@credit-suisse.com,+12123252922,,New York,NY,US,1970-11-27,Emily Royal,Cell Phone,1.0
+140,Craig Stine,82,Executive Vice Chairman of Global FIG; Managing Director,Financial Services,Banks / Lending,craig.stine@credit-suisse.com,+12123258979,,New York,NY,US,1968-04-17,Kripa Shah,Email,1.0
+141,David MacGown,82,Managing Director,Financial Services,Banks / Lending,david.macgown@credit-suisse.com,+12123252920,,New York,NY,US,1976-02-08,Russ Barner,Email,1.0
+142,Howard Chen,82,Managing Director,Financial Services,Financial Technology,howard.h.chen@credit-suisse.com,+12125384552,,New York,NY,US,1965-06-06,Hannah Jumper,Email,1.0
+143,Carlos Marque,82,Managing Director,Financial Services,Insurance,carlos.marque@credit-suisse.com,+12123251324,,New York,NY,US,1952-12-08,Hannah Jumper,Email,1.0
+144,George Matsuzaka,82,Managing Director,Financial Services,Insurance,george.matsuzaka@credit-suisse.com,+12125388534,,New York,NY,US,1945-12-13,Jeannie Blackwood,Cell Phone,1.0
+145,Jeffrey Lebovitz,82,Managing Director,Financial Services,Insurance,jeffrey.lebovitz@credit-suisse.com,+12125385579,,New York,NY,US,1963-01-18,Jeannie Blackwood,Business Phone,1.0
+146,Andrew Rosenburgh,82,Managing Director,Financial Services,Banks / Lending,andrew.rosenburgh@credit-suisse.com,+12123255562,,New York,NY,US,1947-10-27,Russ Barner,Cell Phone,1.0
+147,Christopher Eby,82,Managing Director,Financial Services,Banks / Lending,christopher.eby@credit-suisse.com,+12123259060,,New York,NY,US,1949-10-17,Emily Royal,Cell Phone,1.0
+148,Tim Devine,82,Managing Director,Financial Services,Banks / Lending,timothy.devine@credit-suisse.com,+13127502970,,New York,NY,US,1979-12-28,Kripa Shah,Cell Phone,1.0
+149,Gary Katz,82,Managing Director,Financial Services,Payments,gary.katz@credit-suisse.com,+12125388648,,New York,NY,US,1958-12-11,Jeannie Blackwood,Business Phone,1.0
+150,Hamish Summerfield,82,Head of Global Asset Management; Managing Director,Financial Services,Asset Management,hamish.summerfield@credit-suisse.com,+12123254586,,New York,NY,US,1962-06-19,Russ Barner,Business Phone,1.0
+151,Tadhg Flood ,190,Co-Head of Global FIG; Managing Director,Financial Services,Financial Services,tadhg.flood@db.com,+442075475095,,,,UK,1957-01-24,Kripa Shah,Cell Phone,1.0
+152,Celeste Guth,190,Co-Head of Global FIG; Managing Director,Financial Services,Financial Services,celeste.guth@db.com,+12122504364,,New York,NY,US,1960-05-26,Russ Barner,Email,1.0
+153,Stephen Valentino,190,Head of Americas FIG; Head of Specialty Finance; Managing Director,Financial Services,Financial Services,stephen.valentino@db.com,+12122503288,,New York,NY,US,1949-11-28,Hannah Jumper,Email,1.0
+154,Bill Curley,190,Vice Chairman of Americas FIG; Managing Director,Financial Services,Financial Services,william.curley@db.com,+12122508124,,New York,NY,US,1967-11-08,Hannah Jumper,Email,1.0
+155,Daniel Jacobowitz,190,Managing Director,Financial Services,Financial Services,daniel.jacobowitz@db.com,+12122506810,,New York,NY,US,1947-08-26,Jeannie Blackwood,Email,1.0
+156,Meir Lewis,190,Head of Americas Insurance; Managing Director,Financial Services,Insurance,meir.lewis@db.com,+12122501670,,New York,NY,US,1975-09-05,Jeannie Blackwood,Cell Phone,1.0
+157,Paul Puleo,190,Managing Director,Financial Services,Insurance,paul.puleo@db.com,+12122500665,,New York,NY,US,1970-02-09,Russ Barner,Business Phone,1.0
+158,Adora Whitaker,190,Managing Director,Financial Services,Insurance,adora.whitaker@db.com,+12122506573,,New York,NY,US,1979-03-13,Emily Royal,Cell Phone,1.0
+159,Tommaso Zanobini,190,Global Head of FinTech; Managing Director,Financial Services,Financial Technology,tommaso.zanobini@db.com,+12122505784,,New York,NY,US,1952-02-04,Kripa Shah,Cell Phone,1.0
+160,Rahul Singla,190,Head of Americas FinTech; Managing Director,Financial Services,Financial Technology,rahul.singla@db.com,+12122508526,,New York,NY,US,1941-07-18,Hannah Jumper,Cell Phone,1.0
+161,Jack Rabun,190,Head of Americas Asset Management; Managing Director,Financial Services,Asset Management,jack.rabun@db.com,+12122500200,,New York,NY,US,1977-12-11,Jeannie Blackwood,Cell Phone,1.0
+162,Thomas Crowley,190,Managing Director,Financial Services,Asset Management,thomas.crowley@db.com,+12122500157,,New York,NY,US,1983-07-17,Kripa Shah,Business Phone,1.0
+163,Bruce Harting,190,Global Head of Banks; Managing Director,Financial Services,Banks / Lending,bruce.harting@db.com,+12122505432,,New York,NY,US,1957-04-02,Emily Royal,Email,1.0
+164,Alexander Yavorsky,418,Managing Director,Financial Services,Financial Technology,ayavorsky@jefferies.com,,,New York,NY,US,1970-09-11,Russ Barner,Cell Phone,1.0
+165,Andrea Lee,418,Managing Director,Financial Services,Banks / Lending,alee@jefferies.com,,,New York,NY,US,1956-11-10,Emily Royal,Business Phone,1.0
+166,Ranbeer Bhatia,418,Managing Director,Financial Services,Insurance,rbhatia@jefferies.com,,,New York,NY,US,1949-07-01,Kripa Shah,Cell Phone,1.0
+167,John Erwin,418,Senior Vice President,Financial Services,Financial Technology,jerwin@jefferies.com,,,New York,NY,US,1942-05-13,Hannah Jumper,Cell Phone,1.0
+168,Michael Jamin,418,Managing Director,Financial Services,Insurance,mjamin@jefferies.com,,,New York,NY,US,1959-08-29,Jeannie Blackwood,Cell Phone,1.0
+169,Tripp Baldwin,220,Managing Director,Financial Services,Financial Services,tripp.baldwin@jpmorgan.com,,,New York,NY,US,1943-08-16,Jeannie Blackwood,Email,1.0
+170,Jared Kaye,220,Managing Director; Head of Specialty Finance,Financial Services,Banks / Lending,jared.m.kaye@jpmorgan.com,+12126226097,,New York,NY,US,1972-04-04,Russ Barner,Business Phone,1.0
+171,Xavier Loriferne,220,Managing Director,Financial Services,Product Group,xavier.c.loriferne@jpmorgan.com,,,New York,NY,US,1958-04-09,Daniel Ding,Email,1.0
+172,Zach Pfanstiel,220,Executive Director,Financial Services,Banks / Lending,zach.pfanstiel@jpmorgan.com,,,New York,NY,US,1942-03-09,Daniel Ding,Cell Phone,1.0
+173,Eric Goldstein,220,Managing Director,Financial Services,Insurance,eric.goldstein@jpmorgan.com,+12126223969,,New York,NY,US,1953-07-28,Emily Royal,Business Phone,1.0
+174,John Purcell,220,Managing Director,Financial Services,Insurance,john.purcell@jpmorgan.com,+12126226989,,New York,NY,US,1942-05-06,Kripa Shah,Cell Phone,1.0
+175,Matt Palmer,220,Managing Director,Financial Services,Insurance,matt.palmer@jpmorgan.com,+12126226956,,New York,NY,US,1945-02-15,Russ Barner,Business Phone,1.0
+176,Matthias Kirstol,220,Managing Director,Financial Services,Financial Technology,matthias.kirstol@jpmorgan.com,+12126226346,,New York,NY,US,1969-04-08,Hannah Jumper,Cell Phone,1.0
+177,Usman Ghani,220,Managing Director,Financial Services,Banks / Lending,usman.ghani@jpmorgan.com,+12126224295,,New York,NY,US,1967-03-24,Hannah Jumper,Cell Phone,1.0
+178,John Ross,220,Managing Director,Financial Services,Banks / Lending,john.ross@jpmorgan.com,+12128344727,,New York,NY,US,1940-12-17,Jeannie Blackwood,Email,1.0
+179,Neil Carragher,49,Co-Head of FIG; Americas,Financial Services,Banks / Lending,neil.carragher@ubs.com,+12128216960,,New York,NY,US,1968-03-18,Jeannie Blackwood,Email,1.0
+180,Doug Simons,49,Managing Director,Financial Services,Banks / Lending,doug.simon@ubs.com,+12128214649,,New York,NY,US,1943-12-07,Russ Barner,Email,1.0
+181,Vik Hebatpuria,49,Managing Director; Head of Fintech,Financial Services,Financial Technology,vik.hebatpuria@ubs.com,+12128214214,,New York,NY,US,1976-11-22,Kripa Shah,Cell Phone,1.0
+182,Joseph Hershberger,49,Vice Chairman; Global Asset Management,Financial Services,Asset Management,joseph.hershberger@ubs.com,+12128213477,,New York,NY,US,1964-06-01,Hannah Jumper,Business Phone,1.0
+183,Saawan Pathange,49,Managing Director,Financial Services,Asset Management,saawan.pathange@ubs.com,+12128213891,,New York,NY,US,1978-04-11,Jeannie Blackwood,Cell Phone,1.0
+184,Brian Doyal,419,Managing Director,Financial Services,Financial Services,bdoyal@rwbaird.com,+13126094916,,Chicago,IL,US,1967-08-25,Emily Royal,Email,1.0
+185,Chris Hildreth,419,Managing Director,Financial Services,Financial Services,childreth@rwbaird.com,+13126094937,,Chicago,IL,US,1973-02-18,Kripa Shah,Email,1.0
+186,Peter Robbins,419,Vice President,Financial Services,Financial Services,probbins@rwbaird.com,+14142985018,,Milwaukee,WI,US,1959-04-17,Hannah Jumper,Cell Phone,1.0
+187,Mike Esposito,41,Global FIG Chairman; Co-Head,Financial Services,Financial Institutions,mike.esposito@gs.com,+12129025835,,New York,NY,US,1940-09-11,Jeannie Blackwood,Business Phone,1.0
+188,Luke Sarsfield,41,Global FIG Co-Head,Financial Services,Financial Institutions,luke.sarsfield@gs.com,+12129022103,,New York,NY,US,1984-07-15,Jeannie Blackwood,Cell Phone,1.0
+189,Avinash Mehrotra,41,Co-Head FIG M&A,Financial Services,Financial Institutions,avinash.mehrotra@gs.com,+12129022570,,New York,NY,US,1973-04-24,Russ Barner,Cell Phone,1.0
+190,Russ Hutchinson ,41,Co-Head FIG M&A,Financial Services,Financial Institutions,russ.hutchinson@gs.com,+12129026157,,New York,NY,US,1985-11-07,Emily Royal,Email,1.0
+191,Ken Coquillette,41,Global FIG Vice Chairman,Financial Services,Banks / Lending,ken.coquillette@gs.com,+12129021711,,New York,NY,US,1976-09-21,Kripa Shah,Email,1.0
+192,Huntley Garriott,41,Co-Head Banks & Specialty Finance,Financial Services,Banks / Lending,huntley.garriott@gs.com,+12129026314,,New York,NY,US,1959-06-03,Hannah Jumper,Email,1.0
+193,Eric Neveux,41,Co-Head Banks & Specialty Finance,Financial Services,Banks / Lending,eric.neveux@gs.com,+13126556182,,Chicago,IL,US,1964-02-09,Jeannie Blackwood,Email,1.0
+194,Joe Ryan,41,Managing Director,Financial Services,Banks / Lending,joseph.ryan@gs.com,+12129020789,,New York,NY,US,1944-08-22,Kripa Shah,Cell Phone,1.0
+195,Mariano Mallol,41,Managing Director,Financial Services,Banks / Lending,mariano.mallol@gs.com,+12129026379,,New York,NY,US,1948-09-28,Emily Royal,Business Phone,1.0
+196,Jeff Gido,41,Global Head of Financial Technology,Financial Services,Financial Technology,jeffrey.gido@gs.com,+12129023445,,New York,NY,US,1982-08-05,Russ Barner,Cell Phone,1.0
+197,David Schwimmer,41,Head of Market Structure,Financial Services,Financial Technology,david.schwimmer@gs.com,+12129026283,,New York,NY,US,1952-01-26,Daniel Ding,Cell Phone,1.0
+198,Kelly Galanis,41,Managing Director,Financial Services,Financial Technology,kelly.galanis@gs.com,+12129021868,,New York,NY,US,1966-05-30,Daniel Ding,Cell Phone,1.0
+199,Mike Nickols,41,Managing Director,Financial Services,Asset Management,mike.nickols@gs.com,+12129022784,,New York,NY,US,1941-10-20,Emily Royal,Cell Phone,1.0
+200,Victor Lopez-Balboa,41,Global Co-Head of Insurance,Financial Services,Insurance,victor.lopez-balboa@gs.com,+12129021707,,New York,NY,US,1964-08-09,Kripa Shah,Business Phone,1.0
+201,Pat Fels,41,Americas Head of Insurance,Financial Services,Insurance,patrick.fels@gs.com,+12129023902,,New York,NY,US,1965-07-23,Russ Barner,Email,1.0
+202,Jason Eisenstadt,41,Managing Director,Financial Services,Insurance,jason.eisenstadt@gs.com,+12129022846,,New York,NY,US,1962-05-05,Hannah Jumper,Cell Phone,1.0
+203,Philip Salem,41,Managing Director,Financial Services,Insurance,philip.salem@gs.com,+12129025370,,New York,NY,US,1942-09-09,Hannah Jumper,Business Phone,1.0
+204,Devanshu Dhyani ,41,Managing Director,Financial Services,Insurance,devanshu.dhyani@gs.com,+12129020503,,New York,NY,US,1970-07-27,Jeannie Blackwood,Cell Phone,1.0
+205,John Esposito,422,Global Head of Financial Institutions,Financial Services,Financial Institutions,john.esposito@morganstanley.com,+12127617101,,New York,NY,US,1978-12-25,Emily Royal,Cell Phone,1.0
+206,Grant Gregory,422,Co-Head of North America Banks & Diversified Finance,Financial Services,Banks / Lending,grant.gregory@morganstanley.com,+12127614813,,New York,NY,US,1976-11-15,Russ Barner,Business Phone,1.0
+207,Gavin McFarland,422,Head of Financial Institutions North America,Financial Services,Financial Institutions,gavin.mcfarland@morganstanley.com,+12127613216,,New York,NY,US,1943-12-29,Daniel Ding,Cell Phone,1.0
+208,Michael Hovey,422,Head of Insurance,Financial Services,Insurance,michael.hovey@morganstanley.com,+12127613695,,New York,NY,US,1969-08-09,Daniel Ding,Cell Phone,1.0
+209,Kevin Ryan,422,Head of Banking Solutions,Financial Services,Banks / Lending,kevin.j.ryan@morganstanley.com,+12127612825,,New York,NY,US,1966-08-13,Emily Royal,Cell Phone,1.0
+210,Thomas Chen,422,Vice Chairman,Financial Services,Financial Institutions,thomas.chen@morganstanley.com,+12127618207,,New York,NY,US,1947-03-01,Kripa Shah,Cell Phone,1.0
+211,Derek Kirkland ,422,Vice Chairman,Financial Services,Insurance,derek.kirkland@morganstanley.com,+12127613251,,New York,NY,US,1945-01-01,Russ Barner,Business Phone,1.0
+212,Robert Towse ,422,Senior Advisor,Financial Services,Insurance,robert.towse@morganstanley.com,+12127617717,,New York,NY,US,1955-08-16,Hannah Jumper,Email,1.0
+213,Robyn Maslynsky,422,Managing Director,Financial Services,Insurance,robyn.maslynsky@morganstanley.com,+12127618401,,New York,NY,US,1983-04-11,Hannah Jumper,Cell Phone,1.0
+214,Christopher Taylor,422,Managing Director,Financial Services,Insurance,christopher.taylor@morganstanley.com,+12127613690,,New York,NY,US,1950-01-26,Jeannie Blackwood,Business Phone,1.0
+215,David Heaton,422,Managing Director,Financial Services,Asset Management,david.heaton@morganstanley.com,+12127614995,,New York,NY,US,1960-10-22,Jeannie Blackwood,Cell Phone,1.0
+216,Kaivan Shakib,422,Managing Director,Financial Services,Financial Technology,kaivan.shakib@morganstanley.com,+12127614443,,New York,NY,US,1945-09-11,Russ Barner,Business Phone,1.0
+217,Jyri Wilska,422,Managing Director,Financial Services,Asset Management,jyri.wilska@morganstanley.com,+12127617579,,New York,NY,US,1946-09-11,Emily Royal,Cell Phone,1.0
+218,Jonathan Anderson,422,Executive Director,Financial Services,Insurance,jonathan.j.anderson@morganstanley.com,+12127612383,,New York,NY,US,1967-06-11,Kripa Shah,Cell Phone,1.0
+219,Sean Egan,422,Executive Director,Financial Services,Asset Management,sean.p.egan@morganstanley.com,+12127614430,,New York,NY,US,1968-03-08,Hannah Jumper,Email,1.0
+220,Malick Diop,422,Executive Director,Financial Services,Financial Institutions,malick.diop@morganstanley.com,+13107882280,,New York,NY,US,1943-03-25,Jeannie Blackwood,Email,1.0
+221,Graham Nix,422,Executive Director,Financial Services,Banks / Lending,graham.nix@morganstanley.com,+12127616842,,New York,NY,US,1984-05-16,Kripa Shah,Email,1.0
+222,Jigar Patel,422,Executive Director,Financial Services,Banks / Lending,jigar.j.patel@morganstanley.com,+12127619552,,New York,NY,US,1942-06-12,Emily Royal,Email,1.0
+223,Dean Scott,422,Executive Director,Financial Services,Insurance,dean.scott@morganstanley.com,+12127613074,,New York,NY,US,1947-07-25,Russ Barner,Cell Phone,1.0
+224,Javed Jinnah,422,Executive Director,Financial Services,Banks / Lending,javed.jinnah@morganstanley.com,+12122968546,,New York,NY,US,1949-01-28,Daniel Ding,Business Phone,1.0
+225,Vinnie Badinehal,420,Managing Director; Head of FIG,Financial Services,Banks / Lending,vinnie.badinehal@rbbcm.com,+12124379957,,New York,NY,US,1952-11-06,Hannah Jumper,Business Phone,1.0
+226,Dimitar Karaivanov,420,Managing Director,Financial Services,Banks / Lending,dimitar.karaivanov@rbbcm.com,+12126187548,,New York,NY,US,1949-02-08,Hannah Jumper,Email,1.0
+227,Grant Tolson,420,Managing Director,Financial Services,Insurance,grant.tolson@rbbcm.com,+12129052943,,New York,NY,US,1981-10-17,Jeannie Blackwood,Cell Phone,1.0
+228,Jonathan Bayer,420,Managing Director,Financial Services,Insurance,jonathan.bayer@rbbcm.com,+12124286698,,New York,NY,US,1970-11-25,Jeannie Blackwood,Business Phone,1.0
+229,Neil Chawhan,420,Managing Director,Financial Services,Insurance,neil.chawhan@rbbcm.com,+12126182745,,New York,NY,US,1975-12-23,Russ Barner,Cell Phone,1.0
+230,Peter Spinelli,420,Managing Director,Financial Services,Asset Management,peter.spinelli@rbbcm.com,+12126187533,,New York,NY,US,1950-04-08,Emily Royal,Business Phone,1.0
+231,Jason Braunstein,420,Managing Director,Financial Services,Depositories,jason.braunstein@rbbcm.com,+12125580414,,New York,NY,US,1964-12-14,Kripa Shah,Cell Phone,1.0
+232,Saurabh Monga,420,Managing Director,Financial Services,Banks / Lending,saurabh.monga@rbbcm.com,+12122664053,,New York,NY,US,1959-01-17,Hannah Jumper,Cell Phone,1.0
+233,Jason Gurandiano,420,Managing Director,Financial Services,Financial Technology,jason.gurandiano@rbccm.com,+12129052906,,New York,NY,US,1953-04-13,Russ Barner,Email,1.0
+234,Jonathan Dubroff,77,Managing Director,Financial Services,Financial Technology,jonathan.dubroff@bmo.com,+12127021149,,New York,NY,US,1974-12-05,Emily Royal,Email,1.0
+235,Brad Hardie,77,Managing Director,Financial Services,Financial Institutions,brad.hardie@bmo.com,+14163595614,,Toronto,CA,US,1956-07-25,Kripa Shah,Email,1.0
+236,Dan McNamara,77,Managing Director,Financial Services,Asset Management,dan.mcnamara@bmo.com,+13124617267,,New York,NY,US,1964-05-01,Russ Barner,Cell Phone,1.0
+237,Antonia Georgieva,77,Managing Director,Financial Services,Asset Management,antonia.georgieva@bmo.com,+12127021153,,New York,NY,US,1962-12-23,Hannah Jumper,Business Phone,1.0
+238,Will Koo,77,Director,Financial Services,Insurance,will.koo@bmo.com,+12127021198,,New York,NY,US,1951-01-11,Hannah Jumper,Cell Phone,1.0
+239,John Coke,77,Managing Director,Financial Services,Financial Institutions,john.coke@bmo.com,+14163596903,,Toronto,CA,US,1978-07-20,Jeannie Blackwood,Cell Phone,1.0
+240,Sanjay Patel,77,Director,Financial Services,Banks / Lending,sanjay.patel@bmo.com,+12127021168,,New York,NY,US,1948-11-17,Jeannie Blackwood,Cell Phone,1.0
+241,Ariel Walsh,77,Managing Director,Financial Services,Financial Institutions,ariel.walsh@bmo.com,+12127021743,,New York,NY,US,1964-02-02,Hannah Jumper,Cell Phone,1.0
+242,Chris Mandozzi,39,Director,Financial Services,Financial Technology,christopher.mandozzi@wellsfargo.com,+12122148271,,New York,NY,US,1983-04-29,Emily Royal,Cell Phone,1.0
+243,Scott Heberton,39,Managing Director - Head of Financial Institutions Investment Banking,Financial Services,Banks / Lending,scott.heberton@wellsfargo.com,+17044101126,,Charlotte,NC,US,1960-11-01,Kripa Shah,Business Phone,1.0
+244,Tom Curran,39,Managing Director - Head of Insurance Investment Banking,Financial Services,Insurance,tom.curran@wellsfargo.com,+12122148408,,New York,NY,US,1955-03-24,Emily Royal,Cell Phone,1.0
+245,Sameer Garg,39,Managing Director,Financial Services,Insurance,sameer.garg@wellsfargo.com,+12122145201,,New York,NY,US,1947-02-08,Russ Barner,Business Phone,1.0
+246,Kevin Tapp,39,Managing Director,Financial Services,Insurance,kevin.tapp@wellsfargo.com,+17044101255,,Charlotte,NC,US,1958-06-09,Daniel Ding,Cell Phone,1.0
+247,Ford Perry,39,Managing Director - Head of Depository Investment Banking,Financial Services,Banks / Lending,ford.perry@wellsfargo.com,+17044101212,,Charlotte,NC,US,1961-04-01,Daniel Ding,Cell Phone,1.0
+248,Anthony Ruggiero,39,Managing Director,Financial Services,Banks / Lending,anthony.ruggiero@wellsfargo.com,+12122148327,,New York,NY,US,1940-01-30,Emily Royal,Email,1.0
+249,Matthew Benton,39,Managing Director,Financial Services,Banks / Lending,matthew.benton@wellsfargo.com,+17044101028,,Charlotte,NC,US,1957-01-13,Kripa Shah,Email,1.0
+250,Christopher Small,39,Managing Director - Head of Specialty Finance Investment Banking,Financial Services,Banks / Lending,christopher.small@wellsfargo.com,+17044101243,,Charlotte,NC,US,1962-03-09,Russ Barner,Email,1.0
+251,Mark Timperman,39,Managing Director - Head of Asset Management Investment Banking,Financial Services,Asset Management,mark.timperman@wellsfargo.com,+17044101263,,Charlotte,NC,US,1964-09-24,Hannah Jumper,Email,1.0
+252,David Schieldrop,39,Managing Director - Head of Financial Institutions M&A,Financial Services,Product Group,david.schieldrop@wellsfargo.com,+12122148176,,New York,NY,US,1948-05-20,Hannah Jumper,Cell Phone,1.0
+253,Brian Moon,39,Managing Director - FIG M&A,Financial Services,Product Group,brian.o.moon@wellsfargo.com,+12122145256,,New York,NY,US,1957-10-08,Jeannie Blackwood,Business Phone,1.0
+254,David Ferro,39,Managing Director - FIG M&A,Financial Services,Product Group,david.ferro@wellsfargo.com,+17044101095,,Charlotte,NC,US,1973-10-28,Jeannie Blackwood,Cell Phone,1.0
+255,George Murphy,25,Managing Director,Industrials,Industrial & Environmental Services,george.murphy@barclays.com,+12125263526,,New York,NY,US,1956-02-24,Jeannie Blackwood,Business Phone,1.0
+256,Josh Kelsey,25,Managing Director,Industrials,Industrial & Environmental Services,josh.kelsey@barclays.com,+12125262195,,New York,NY,US,1944-04-12,Russ Barner,Cell Phone,1.0
+257,David Torrence,39,Vice President,Marketing Services,Marketing Services,david.torrence@wellsfargo.com,+17044106789,,Charlotte,NC,US,1947-08-28,Kripa Shah,Business Phone,1.0
+258,Chris Ooten,418,Managing Director,Sponsor Coverage,Sponsor Coverage,cooten@jefferies.com,,,New York,NY,US,1944-01-17,Jeannie Blackwood,Email,1.0
+259,Orestes Tarajano,420,Managing Director,Sponsor Coverage,Sponsor Coverage,orestes.tarajano@rbbcm.com,+12124286276,,New York,NY,US,1940-08-22,Hannah Jumper,Business Phone,1.0
+260,Matthew Stopnik,420,Managing Director; Co-Head,Sponsor Coverage,Sponsor Coverage,matthew.stopnik@rbbcm.com,+12124286696,,New York,NY,US,1953-09-18,Jeannie Blackwood,Email,1.0
+261,Mark Goldstein ,420,Managing Director; Co-Head,Sponsor Coverage,Sponsor Coverage,mark.goldstein@rbbcm.com,+12124371935,,New York,NY,US,1945-04-24,Jeannie Blackwood,Cell Phone,1.0
+262,Aman Talwar,77,Director,Sponsor Coverage,Sponsor Coverage,aman.talwar@bmo.com,,,New York,NY,US,1978-08-08,Hannah Jumper,Business Phone,1.0
+263,Kurt Vonderhe,77,Managing Director,Sponsor Coverage,Sponsor Coverage,kurt.vonderahe@bmo.com,+12127021106,,New York,NY,US,1982-02-10,Jeannie Blackwood,Cell Phone,1.0
+264,Chris Macios,39,Director,Sponsor Coverage,Sponsor Coverage,chris.macios@wellsfargo.com,+12122145209,,New York,NY,US,1962-11-05,Jeannie Blackwood,Cell Phone,1.0
+265,Michael Wilkins,92,Managing Director,Technology,Technology Services,mwilkins@harriswilliams.com,+14152173411,,San Francisco,CA,US,1971-01-17,Jeannie Blackwood,Cell Phone,1.0
+266,Adam Nordin,25,Managing Director; Head of Business Services,Technology,Data & Information Services,adam.nordin@barclays.com,+13126097223,,Chicago,IL,US,1957-10-28,Kripa Shah,Email,1.0
+267,Jason Williams,25,Managing Director,Technology,Business Services,jason.r.williams@barclays.com,+13126097242,,Chicago,IL,US,1979-12-10,Russ Barner,Email,1.0
+268,Alex Pavlovich,25,Managing Director,Technology,Education Services,alex.pavlovich@barclays.com,+13126097296,,Chicago,IL,US,1942-06-08,Hannah Jumper,Email,1.0
+269,Aiden Hallett,25,Director,Technology,Data & Information Services,aiden.hallett@barclays.com,+12125260929,,New York,NY,US,1975-05-30,Hannah Jumper,Email,1.0
+270,Ryan McNamara,25,Director,Technology,Business Services,ryan.t.mcnamara@barclays.com,+13126097319,,Chicago,IL,US,1955-08-27,Jeannie Blackwood,Cell Phone,1.0
+271,Jon Skinner,66,Head of Technology Investment Banking,Technology ,Technology Services,jskinner@williamblair.com,+13123645408,,Chicago,IL,US,1963-03-23,Russ Barner,Cell Phone,1.0
+272,Brian Gudofsky,82,Co-Head Technology; Managing Director,Technology ,Technology Services,brian.gudofsky@creidt-suisse.com,+12123256571,,New York,NY,US,1946-10-26,Hannah Jumper,Business Phone,1.0
+273,David Goldstein,82,Vice Chairman Technology; Managing Director,Technology ,Technology Services,david.goldstein@credit-suisse.com,+12123250907,,New York,NY,US,1942-11-20,Jeannie Blackwood,Email,1.0
+274,Neeraj Vasudev,134,Managing Director,Business Services,Transportation & Logistics,neeraj.vasudev@citi.com,+12128166116,,New York,NY,US,1983-12-27,Emily Royal,Cell Phone,2.0
+275,Gordon Mackay,134,Director,Business Services,Industrial & Environmental Services,gordon.mackay@citi.com,+12128164608,,New York,NY,US,1962-05-27,Kripa Shah,Business Phone,2.0
+276,Chad Hoeft,134,Managing Director,Business Services,Facilities Services,chad.hoeft@citi.com,+12128164977,,New York,NY,US,1947-10-19,Hannah Jumper,Cell Phone,2.0
+277,Eric Burns,134,Director,Business Services,Facilities Services,eric.burns@citi.com,+12128161970,,New York,NY,US,1973-12-23,Jeannie Blackwood,Business Phone,2.0
+278,Matthew Musa,134,Managing Director,Business Services,Facilities Services,matt.musa@citi.com,+13128766953,,Chicago,IL,US,1983-04-13,Kripa Shah,Cell Phone,2.0
+279,Brian Fischbein,134,Managing Director,Business Services,Data & Information Services,brian.fischbein@citi.com,+12128165940,,New York,NY,US,1944-10-16,Emily Royal,Cell Phone,2.0
+280,Eish Dhillon,134,Managing Director,Business Services,IT Services,eish.dhillon@citi.com ,+12128163150,,New York,NY,US,1944-03-17,Emily Royal,Cell Phone,2.0
+281,Stephen Edelman,134,Managing Director,Business Services,Industrial & Environmental Services,stephen.edelman@citi.com ,+12128162868,,New York,NY,US,1953-01-25,Russ Barner,Cell Phone,2.0
+282,Mike Rintoul,423,Managing Director; Head of Business Services,Business Services,Business Services,michael.rintoul@nomura.com,+12124368178,+19178466951,New York,NY,US,1951-01-21,Russ Barner,Email,2.0
+283,David Buscaglia,423,Director,Business Services,Professional Services,david.buscaglia@nomura.com,+12122984031,+19174063540,New York,NY,US,1948-01-21,Jeannie Blackwood,Cell Phone,2.0
+284,Chanan Glambosky,321,Managing Director,Business Services,Professional Services,glamboskyc@stifel.com,+12128476443,+12022362318,New York,NY,US,1960-01-01,Hannah Jumper,Business Phone,2.0
+285,Steve McLaughlin,288,Managing Partner,Financial Services,Financial Technology,steve.mclaughlin@ftpartners.com,+14155128704,,San Francisco,CA,US,1976-02-08,Emily Royal,Cell Phone,2.0
+286,Melissa Wasser,288,Director; Head of Capital Markets,Financial Services,Product Group,melissa.wasser@ftpartners.com,+16093045625,,New York,NY,US,1971-04-24,Russ Barner,Cell Phone,2.0
+287,David Lemelman,288,Vice President,Financial Services,Financial Technology,david.lemelman@ftpartners.com,+12122258474,,New York,NY,US,1958-05-27,Daniel Ding,Cell Phone,2.0
+288,Nick Seibert,288,Director,Financial Services,Financial Technology,nick.seibert@ftpartners.com,+12125589316,,New York,NY,US,1957-01-26,Daniel Ding,Cell Phone,2.0
+289,Stephen Stout,288,Managing Director,Financial Services,Financial Technology,stephen.stout@ftpartners.com,,,New York,NY,US,1975-08-20,Emily Royal,Business Phone,2.0
+290,Paul VanderMarck,288,Managing Director,Financial Services,Financial Technology,paul.vandermarck@ftpartners.com,,,New York,NY,US,1951-06-20,Kripa Shah,Email,2.0
+291,Peter Babej,134,Managing Director; Head – Global FIG,Financial Services,Asset Management,peter.babej@citi.com,+12128165900,,New York,NY,US,1964-10-27,Russ Barner,Email,2.0
+292,David Head,134,Managing Director; Chairman – Global FIG,Financial Services,Asset Management,david.head@citi.com,+12128169881,,New York,NY,US,1954-12-28,Daniel Ding,Email,2.0
+293,Christian Anderson,134,Managing Director; Co-Head – Global GAM,Financial Services,Asset Management,christian.anderson@citi.com,+12128169840,,New York,NY,US,1957-08-28,Daniel Ding,Email,2.0
+294,Brad Coleman,134,Managing Director; Chairman – Global GAM,Financial Services,Asset Management,brad.coleman@citi.com,+12128169215,,New York,NY,US,1948-07-16,Emily Royal,Email,2.0
+295,Thomas Heath,134,Managing Director; Co-Head of Banks and Diversified Financials,Financial Services,Banks / Lending,thomas.heath@citi.com,+12128168484,,New York,NY,US,1972-01-22,Kripa Shah,Cell Phone,2.0
+296,Robert Goldstein ,134,Managing Director,Financial Services,Banks / Lending,robert.goldstein@citi.com ,+12128163776,,New York,NY,US,1968-11-13,Russ Barner,Business Phone,2.0
+297,Ian Wesson,134,Managing Director,Financial Services,Banks / Lending,ian.wesson@citi.com ,+12128161282,,New York,NY,US,1970-04-12,Hannah Jumper,Cell Phone,2.0
+298,Seth Heaton,134,Managing Director,Financial Services,Banks / Lending,seth.heaton@citi.com ,+12128168226,,New York,NY,US,1967-09-25,Hannah Jumper,Cell Phone,2.0
+299,Matt Beitzel,134,Managing Director,Financial Services,Banks / Lending,matt.beitzel@citi.com ,+13128768808,,New York,NY,US,1963-12-03,Jeannie Blackwood,Cell Phone,2.0
+300,Peter Bickford,134,Co-Head of Insurance; Managing Director,Financial Services,Insurance,peter.bickford@citi.com ,+12128164022,,New York,NY,US,1976-04-02,Jeannie Blackwood,Cell Phone,2.0
+301,Gautam Chawla,134,Co-Head of Insurance; Managing Director,Financial Services,Insurance,gautam.chawla@citi.com ,+12128169806,,New York,NY,US,1965-09-04,Russ Barner,Business Phone,2.0
+302,Clifford Brokaw,134,Managing Director,Financial Services,Insurance,clifford.brokaw@citi.com ,+12128166767,,New York,NY,US,1979-12-21,Emily Royal,Email,2.0
+303,Raymond Peters,134,Managing Director,Financial Services,Insurance,raymond.peters@citi.com ,+12128166100,,New York,NY,US,1963-01-05,Kripa Shah,Cell Phone,2.0
+304,Rick Diamond,134,Managing Director; Global Head of Financial Technology,Financial Services,Financial Technology,rick.diamond@citi.com ,+12128162777,,New York,NY,US,1970-07-19,Hannah Jumper,Business Phone,2.0
+305,Mathieu Salas,134,Managing Director; Head of Global Financial Technology,Financial Services,Financial Technology,mathieu.salas@citi.com ,+12128165502,,New York,NY,US,1983-10-21,Jeannie Blackwood,Cell Phone,2.0
+306,Dane Graham,134,Managing Director,Financial Services,Asset Management,dane.graham@citi.com ,+12128168219,,New York,NY,US,1969-10-18,Kripa Shah,Business Phone,2.0
+307,Kevin Manning,255,Managing Director; Head of Diversified Industrials,Industrials,Industrial & Environmental Services,kevin.manning@cowen.com,+13125772228,+17733046721,Chicago,IL,US,1980-09-10,Emily Royal,Cell Phone,2.0
+308,Sanjay Chadda,424,Managing Director & Partner,Marketing Services,Marketing Services,schadda@petskyprunier.com,+12128426022,,New York,NY,US,1980-09-05,Kripa Shah,Email,2.0
+309,Marc Flor,424,Director,Marketing Services,Marketing Services,mflor@petskyprunier.com,+12128426034,,New York,NY,US,1950-04-15,Hannah Jumper,Email,2.0
+310,Oliver Schweitzer,425,Managing Director,Marketing Services,Marketing Services,oschweitzer@admediapartners.com,+12127591870,,New York,NY,US,1978-04-01,Jeannie Blackwood,Cell Phone,2.0
+311,Greg Smith,425,Managing Director,Marketing Services,Marketing Services,gsmith@admediapartners.com,,,New York,NY,US,1968-05-03,Kripa Shah,Business Phone,2.0
+312,"Martin Eltrich, III",1,Partner,,,,,,,,,,,,
+313,Christopher Satti,2,Business Dev,,,,+18572946640,,,,,,,,
+314,Richard Zannino,3,,,,,,,,,,,,,
+315,Will Jaudes,3,Principal,,,,,,,,,,,,
+316,Alex Rose,5,Partner,,,,,,,,,,,,
+317,Tony Salewski,6,Managing Director,,,,+14158342350,,,,,,,,
+318,Dave Thomas,7,Managing Director,,,,+14159832700,,,,,,,,
+319,Scott Middleman,7,Associate,,,smiddleman@ggcfinancial.com,+14159832700,,,,,,,,
+320,Ira D. Kleinman,9,Senior Managing Director,,,,,,,,,,,,
+321,Paige Daly,9,Managing Director,,,pdaly@harvpart.com,+12125996300,,,,,,,,
+322,David Knoch,10,Strategic Services and Partners,,,,,,,,,,,,
+323,Devraj Roy,10,"Partner, Industrials",,,droy@irvingplacecapital.com,+12125514665,,,,,,,,
+324,Alexander Lynn,11,Managing Director,,,lalexander@kelso.com,+12127513939,,,,,,,,
+325,Keith Castaldi,11,Vice President,,,kcastaldi@kelso.com,+12127513939,,,,,,,,
+326,Bernard V. Buonanno,14,,,,bbuonanno@nautic.com,+14012785670,,,,,,,,
+327,David Boutry,16,Principal Bus Dev,,,,+12129050010,,,,,,,,
+328,Jeremy Holland,17,Principal of Origination Consumer Products,,,jholland@riversidecompany.com,+13104995080,,,,,,,,
+329,Johnathon Borell,18,Managing Director,,,JBorell@suncappart.com,+12125889156,,,,,,,,
+330,Douglas A. Haber,19,Managing Director,,,,+16172271050,,,,,,,,
+331,Michael Layman,20,Managing Director,,,mlayman@tsgconsumer.com,+14152172318,,,,,,,,
+332,Bill Cooling,22,,,,,,,,,,,,,
+333,Shaun Westfall,22,,,,,,,,,,,,,
+334,Andrew Snow,23,,,,,,,,,,,,,
+335,Scott Paton,27,,,,scottpaton@suntrust.com,+19422541327,,,,,,,,
+336,David Solomon,33,,,,davidsolomon@lazard.com,,,,,,,,,
+337,Maria Watts,23,,,,mariawatts@baird.com,,,,,,,,,
+338,Emiliano Roman,43,,,,emilianoroman@morganstanley.com,+12765543171,,,,,,,,
+339,Dean Zuccarello,47,,,,deanzuccarello@cypressgroup.com,+19077886166,,,,,,,,
+340,Mark Francis,52,,,,markfrancis@houlihanlokey.com,+16084742507,,,,,,,,
+341,Dave Dolan,56,,,,,,,,,,,,,
+342,Robert Berstein,56,,,,,,,,,,,,,
+343,John Roediger,56,,,,,,,,,,,,,
+344,Nicholas Forsa,27,,,,nicholasforsa@suntrust.com,,,,,,,,,
+345,Matt Kaczmarek,52,,,,mattkaczmarek@houlihanlokey.com,,,,,,,,,
+346,Craig Gibson,64,,,,craiggibson@tmcapital.com,,,,,,,,,
+347,Noam Cohen,71,,,,noamcohen@rbc.com,,,,,,,,,
+348,Tarik Rguem,74,,,,tarikrguem@moelis.com,,,,,,,,,
+349,Damon Chandik,79,,,,damonchandik@piperjaffray.com,+18404562842,,,,,,,,
+350,Damon Chandik,80,,,,damonchandik@northpoint.com,+18404562842,,,,,,,,
+351,Aron Weisbrod,82,,,,aronweisbrod@creditsuisse.com,,,,,,,,,
+352,Aron Weisbrod,83,,,,aronweisbrod@db.com,,,,,,,,,
+353,Rich Harding,74,,,,richharding@moelis.com,+14046696847,,,,,,,,
+354,Adam Filkin,66,,,,adamfilkin@williamblair.com,+18088815600,,,,,,,,
+355,Ian Cookson,105,,,,iancookson@headwaters.com,+12705898180,,,,,,,,
+356,Phil Boyd,115,,,,philboyd@guggenheim.com,,,,,,,,,
+357,Ralph DellaRatta,118,,,,ralphdellaratta@westernreservepartners.com,,,,,,,,,
+358,Brent Spiller,92,,,,brentspiller@harriswilliams.com,+14028013901,,,,,,,,
+359,Barrett Frankel,62,,,,barrettfrankel@jpm.com,,,,,,,,,
+360,Matt Kelly,80,,,,mattkelly@northpoint.com,,,,,,,,,
+361,Rod O-Neill,79,,,,rodoneill@piperjaffray.com,,,,,,,,,
+362,Matthew Kaczmarek,52,,,,matthewkaczmarek@houlihanlokey.com,+13504397413,,,,,,,,
+363,Jay Broaddus,71,,,,jaybroaddus@rbc.com,+17169963324,,,,,,,,
+364,Jon Hammack,74,,,,jonhammack@moelis.com,,,,,,,,,
+365,Cosmo Roe,41,,,,cosmoroe@goldmansachs.com,,,,,,,,,
+366,Brent Smith,66,,,,brentsmith@williamblair.com,,,,,,,,,
+367,Dan Gulbrandson,79,,,,dangulbrandson@piperjaffray.com,+18062542760,,,,,,,,
+368,Bernard Zaia,39,,,,bernardzaia@wellsfargo.com,,,,,,,,,
+369,Jeffrey Hogan,43,,,,jeffreyhogan@morganstanley.com,+18609917714,,,,,,,,
+370,Jeffrey Hogan,190,,,,jeffreyhogan@deutschebank.com,+18609917714,,,,,,,,
+371,Hank Johnson,71,,,,,+19865615231,,,,,,,,
+372,Daniel Stewart,71,,,,,,,,,,,,,
+373,Greg Stolowitz,196,,,,gregstolowitz@rothschild.com,+14155581739,,,,,,,,
+374,Arek Kurkciyan,43,,,,,+17328203454,,,,,,,,
+375,Ari Terry,43,,,,,,,,,,,,,
+376,Siddhart Nahata,43,,,,,,,,,,,,,
+377,David Kitterick,43,,,,,,,,,,,,,
+378,Brant Cash,92,,,,brantcash@harriswilliams.com,,,,,,,,,
+379,Karan Garg,52,,,,karangarg@houlihanlokey.com,,,,,,,,,
+380,Nik Johnston,220,,,,nikjohnston@jpmorgan.com,+17146765846,,,,,,,,
+381,Nik Johnston,190,,,,nikjohnston@deutschebank.com,+17146765846,,,,,,,,
+382,Eugene Bord,92,,,,eugenebord@harriswilliams.com,,,,,,,,,
+383,Eugene Bord,220,,,,eugenebord@jpmorgan.com,,,,,,,,,
+384,Bob Murphy,223,,,,bobmurphy@woodbridgeinternational.com,,,,,,,,,
+385,Tim Alexander,92,,,,timalexander@harriswilliams.com,+14012441443,,,,,,,,
+386,Robert DiGia,49,,,,,+13346893403,,,,,,,,
+387,Marc-Anthony Hourihan,49,,,,,,,,,,,,,
+388,John Koski,226,,,,,,,,,,,,,
+389,Rob Lowe,226,,,,,,,,,,,,,
+390,Michael Muntner,111,,,,michaelmuntner@centerview.com,+16624976076,,,,,,,,
+391,Doug  Brown,232,,,,dougbrown@leerink.com,,,,,,,,,
+392,Brooks Dexter,87,,,,brooksdexter@duff&phelps.com,,,,,,,,,
+393,Andrew Costa,220,,,,andrewcosta@jpmorgan.com,+18339735894,,,,,,,,
+394,Matt Preece,198,,,,mattpreece@deloitte.com,,,,,,,,,
+395,Brian Callaci,74,,,,briancallaci@moelis.com,,,,,,,,,
+396,Don Linzer,246,,,,donlinzer@schneiderdowns.com,,,,,,,,,
+397,Richard Harding,74,,,,richardharding@moelis.com,+17098618914,,,,,,,,
+398,Alexander Chefetz,255,,,,alexanderchefetz@cowen.com,,,,,,,,,
+399,Geoffrey Smith,92,,,,geoffreysmith@harriswilliams.com,+17169783378,,,,,,,,
+400,"Jeff Raich, Andrew Shore, Tarik Rguem",74,,,,jeffraichandrewshoretarikrguem@moelis.com,,,,,,,,,
+401,Paul Jevnick,77,,,,pauljevnick@bmo.com,,,,,,,,,
+402,Dan Grabos,220,,,,dangrabos@jpmorgan.com,,,,,,,,,
+403,Karen Martin,77,,,,karenmartin@bmo.com,,,,,,,,,
+404,Richard Agabs,22,,,,richardagabs@jefferies.com,+14349554824,,,,,,,,
+405,Geoff Smith,92,,,,geoffsmith@harriswilliams.com,,,,,,,,,

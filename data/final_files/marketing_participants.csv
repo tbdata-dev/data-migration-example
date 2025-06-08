@@ -1,0 +1,111 @@
+id,contact_id,event_name,status
+1,1,Leaders and Partners Dinner,RSVP'd
+2,2,Leaders and Partners Dinner,Declined
+3,3,Leaders and Partners Dinner,Checked In
+4,4,Leaders and Partners Dinner,No Show
+5,5,Leaders and Partners Dinner,Declined
+6,6,Leaders and Partners Dinner,Declined
+7,7,Leaders and Partners Dinner,Declined
+8,8,Leaders and Partners Dinner,Declined
+9,9,Leaders and Partners Dinner,Declined
+10,10,Leaders and Partners Dinner,Declined
+11,11,Leaders and Partners Dinner,Declined
+12,12,Leaders and Partners Dinner,Declined
+13,13,Leaders and Partners Dinner,Declined
+14,14,Leaders and Partners Dinner,Checked In
+15,15,Leaders and Partners Dinner,Checked In
+16,16,Leaders and Partners Dinner,Checked In
+17,17,Leaders and Partners Dinner,Checked In
+18,18,Leaders and Partners Dinner,Checked In
+19,19,Leaders and Partners Dinner,Checked In
+20,20,Leaders and Partners Dinner,Checked In
+21,21,Leaders and Partners Dinner,Checked In
+22,22,Leaders and Partners Dinner,Checked In
+23,23,Leaders and Partners Dinner,Checked In
+24,24,Leaders and Partners Dinner,Checked In
+25,25,Leaders and Partners Dinner,Checked In
+26,26,Leaders and Partners Dinner,Checked In
+27,27,Leaders and Partners Dinner,Checked In
+28,28,Leaders and Partners Dinner,Checked In
+29,29,Leaders and Partners Dinner,RSVP'd
+30,30,Leaders and Partners Dinner,RSVP'd
+31,31,Leaders and Partners Dinner,RSVP'd
+32,32,Leaders and Partners Dinner,RSVP'd
+33,33,Leaders and Partners Dinner,RSVP'd
+34,34,Leaders and Partners Dinner,RSVP'd
+35,35,Leaders and Partners Dinner,RSVP'd
+36,36,Leaders and Partners Dinner,RSVP'd
+37,37,Leaders and Partners Dinner,RSVP'd
+38,38,Leaders and Partners Dinner,RSVP'd
+39,39,Leaders and Partners Dinner,RSVP'd
+40,40,Leaders and Partners Dinner,RSVP'd
+41,41,Leaders and Partners Dinner,RSVP'd
+42,42,Leaders and Partners Dinner,RSVP'd
+43,43,Leaders and Partners Dinner,Declined
+44,44,Leaders and Partners Dinner,Checked In
+45,45,Leaders and Partners Dinner,No Show
+46,46,Leaders and Partners Dinner,Declined
+47,47,Leaders and Partners Dinner,Declined
+48,48,Leaders and Partners Dinner,Declined
+49,49,Leaders and Partners Dinner,Declined
+50,50,Leaders and Partners Dinner,Declined
+51,51,Leaders and Partners Dinner,Declined
+52,52,Leaders and Partners Dinner,Declined
+53,53,Leaders and Partners Dinner,Declined
+54,54,Leaders and Partners Dinner,Declined
+55,55,Leaders and Partners Dinner,Checked In
+56,56,Leaders and Partners Dinner,Checked In
+57,57,Leaders and Partners Dinner,Checked In
+58,58,Leaders and Partners Dinner,Checked In
+59,59,Leaders and Partners Dinner,Checked In
+60,60,Leaders and Partners Dinner,Checked In
+61,61,Leaders and Partners Dinner,Checked In
+62,62,Leaders and Partners Dinner,Checked In
+63,63,Leaders and Partners Dinner,Checked In
+64,64,Leaders and Partners Dinner,Checked In
+65,65,Leaders and Partners Dinner,Checked In
+66,66,Leaders and Partners Dinner,Checked In
+67,67,Leaders and Partners Dinner,Checked In
+68,68,Leaders and Partners Dinner,Checked In
+69,69,Leaders and Partners Dinner,Checked In
+70,70,Leaders and Partners Dinner,RSVP'd
+71,71,Leaders and Partners Dinner,RSVP'd
+72,24,2019 Market Re-Cap,Checked In
+73,25,2019 Market Re-Cap,Checked In
+74,26,2019 Market Re-Cap,Checked In
+75,27,2019 Market Re-Cap,Checked In
+76,28,2019 Market Re-Cap,Checked In
+77,29,2019 Market Re-Cap,RSVP'd
+78,30,2019 Market Re-Cap,RSVP'd
+79,31,2019 Market Re-Cap,RSVP'd
+80,32,2019 Market Re-Cap,RSVP'd
+81,33,2019 Market Re-Cap,RSVP'd
+82,34,2019 Market Re-Cap,RSVP'd
+83,35,2019 Market Re-Cap,RSVP'd
+84,36,2019 Market Re-Cap,RSVP'd
+85,37,2019 Market Re-Cap,RSVP'd
+86,38,2019 Market Re-Cap,RSVP'd
+87,39,2019 Market Re-Cap,RSVP'd
+88,40,2019 Market Re-Cap,RSVP'd
+89,41,2019 Market Re-Cap,RSVP'd
+90,42,2019 Market Re-Cap,RSVP'd
+91,43,2019 Market Re-Cap,Declined
+92,44,2019 Market Re-Cap,Checked In
+93,45,2019 Market Re-Cap,No Show
+94,46,2019 Market Re-Cap,Declined
+95,47,2019 Market Re-Cap,Declined
+96,48,2019 Market Re-Cap,Declined
+97,49,2019 Market Re-Cap,Declined
+98,50,2019 Market Re-Cap,Declined
+99,51,2019 Market Re-Cap,Declined
+100,52,2019 Market Re-Cap,Declined
+101,53,2019 Market Re-Cap,Declined
+102,54,2019 Market Re-Cap,Declined
+103,55,2019 Market Re-Cap,Checked In
+104,56,2019 Market Re-Cap,Checked In
+105,57,2019 Market Re-Cap,Checked In
+106,58,2019 Market Re-Cap,Checked In
+107,59,2019 Market Re-Cap,Checked In
+108,60,2019 Market Re-Cap,Checked In
+109,61,2019 Market Re-Cap,Checked In
+110,62,2019 Market Re-Cap,Checked In

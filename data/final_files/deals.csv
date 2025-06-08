@@ -1,0 +1,322 @@
+id,company_id,project_name,date_added,sourcing,transaction_type,ltm_revenue,ltm_ebitda,enterprise_value,estimated_equity_investment,status,portfolio_company_status,active_stage,passed_rationale,current_owner,business_description,lead_md,banker_contact_ids,investment_banks
+1,21.0,,2018-01-23,Proprietary,Initial Capitalization,,57.0,,,Active,,CIM Received,,Founder,Rent-to-own consumer financing provider for durable consumer goods retailing,Jeannie Blackwood,,
+2,24.0,Maple,2017-09-01,Auction,Sponsor to Sponsor,291.0,82.0,700.0,198.0,Active,,IOI Submitted,,Carlyle,Provider of end-to-end beauty merchandising solutions,Andrew Mah,332; 333; 334,22; 23
+3,26.0,,2018-02-01,,,,130.0,,,Active,,New Deal,,,"Designer and manufacturer of electrical wire harnesses, control boxes and other value added components",Kripa Shah,,25
+4,28.0,Beauty,2017-10-17,Auction,Other Private Buyout,,29.5,,,Active,,CIM Received,,Founders,Operator of over 600 waxing centers across the United States,Russ Barner,335,27
+5,30.0,,2018-02-09,,Sponsor to Sponsor,,160.0,,,Active,,New Deal,,,Leading retailer of musical instruments in the United States,Matthew Kordonowy,,29
+6,32.0,,2017-08-22,,Sponsor to Sponsor,,216.0,,,Active,,,,,"Bakery, nutrition bar, snack and customized packaging solutions provider and supplier",Hannah Wilson,,31
+7,34.0,Torque,2018-02-01,Trusted Network,Sponsor to Sponsor,,72.0,,,Active,,New Deal,,Lincolnshire,"Designer, manufacturer and marketer of branded aftermarket products for car racing and street performance",Jeannie Blackwood,336,33
+8,35.0,,2018-02-01,,Corporate Seller,,,,,Active,,,,,"Newell announced exploration of divestiture of various consumer and industrial brands, including Waddington, Process Solutions, and Mapa",Andrew Mah,,23
+9,37.0,,2018-02-01,,Sponsor to Sponsor,,59.0,,,Active,,,,,"Largest global operator of spa, salon, wellness and fitness facilities onboard cruise ships; also does spa management",Kripa Shah,,36
+10,38.0,Redford,2017-12-19,Trusted Network,Sponsor to Sponsor,,51.0,400.0,,Active,,LOI Submitted,,Irving Place Capital,Third largest U.S. pet specialty retailer,Russ Barner,337,23
+11,40.0,,2018-02-01,Trusted Network,Corporate Seller,,106.9,,,Active,,,,,"Manufacturer and distributor of organic and conventional private label peanut butter and other nut butters, baking nuts, granola, pasta, dried fruit and trail mixes",Matthew Kordonowy,,39
+12,42.0,,2018-02-01,,Corporate Seller,,72.0,,,Active,,,,,"Smucker's portfolio of breakfast and dessert brands, including Pillsbury, Hungry Jack, White Lilly, Jim Dandy and Martha White",Hannah Wilson,,41
+13,44.0,,2017-12-01,Auction,Sponsor to Sponsor,,50.0,,,Active,,,,,"Largest exclusive full-line supplier of high-quality value-added private label, branded and comanufactured Hispanic inspired foods in the U.S.",Hannah Wilson,338,43
+14,46.0,,2017-09-01,,Sponsor to Sponsor,,65.0,,,Active,,,,,"Designer, sourcer, and seller of high-velocity hardline consumer products bundled under curated merchandise programs",Hannah Wilson,,45
+15,48.0,,2018-01-04,Trusted Network,Other Private Buyout,,40.0,240.0,,Active,,Management Presentation,,Founders,Largest Arby’s franchisee with 362 stores in 9 Midwest and Western states,Jeannie Blackwood,339,47
+16,50.0,,2018-01-01,,Other Private Buyout,,265.0,,,Active,,,,,Producer of liquid energy shots,Andrew Mah,,49
+17,51.0,,2018-01-01,,,,50.0,,,Active,,,,,Credit Suisse advising DaVita on possible acquisition of ARA / looking for partner to help acquire half of ARA's centers,Kripa Shah,,
+18,53.0,Wildcat,2018-01-18,Auction,Sponsor to Sponsor,72.0,12.0,,,Passed/Dead,,,Too Small,Tyree & D'Angelo Partners,DSO,Russ Barner,340,52
+19,54.0,,2017-08-12,,,,145.0,,,Active,,New Deal,,Public,Portfolio of 4 primary care / join pain drugs,Matthew Kordonowy,,
+20,55.0,,2018-01-03,Proprietary,Initial Capitalization,45.0,4.5,45.0,45.0,Active,,IOI Submitted,,Founders,"Orthopedic surgery clinics in Vail, Colorado",Hannah Wilson,,
+21,57.0,Buckeye,2018-01-15,Trusted Network,Initial Capitalization,16.2,3.2,90.0,,Active,,Management Presentation,,Founders,E-commerce platform for reverse logistics / Potential add-on for Bargain Hunt,Jeannie Blackwood,341; 342; 343,56
+22,58.0,Alpha,2017-10-01,Trusted Network,Other Private Buyout,,11.8,160.0,,Passed/Dead,,Management Presentation,On Hold,Founders,Phillips add-on,Andrew Mah,344,27
+23,59.0,,2016-10-01,,,,22.5,135.0,,Passed/Dead,,,,,CTI Foods add-on,Kripa Shah,345,52
+24,61.0,,2017-10-01,Proprietary,Other Private Buyout,,,10.5,,Add On,Current Investment,,,,Phillips add-on; conducting due diligence,Russ Barner,,60
+25,63.0,,2017-01-31,,,,49.0,600.0,,Passed/Dead,,IOI Submitted,Bid Rejected,Warburg Pincus,Urgent care provider in tri-state area with 68 facilities,Matthew Kordonowy,,62
+26,65.0,Icon,2016-11-06,Trusted Network,Other Private Buyout,,8.9,68.0,,Portfolio Company,Current Investment,,,,Give & Go add on; marketed financing,Hannah Wilson,346,64
+27,67.0,Titan,2016-10-27,Auction,Sponsor to Sponsor,,124.2,1250.0,,Passed/Dead,,IOI Submitted,Bid Rejected,Charlesbank,Manufacturer serving global medical device and aerospace & defense OEMs,Jeannie Blackwood,8,66
+28,68.0,,2017-02-01,,,,53.3,480.0,,Passed/Dead,,Management Presentation,Bid Rejected,TPG,Contemplating combination with HSS that would result in 50% / 50% ownership,Andrew Mah,,22
+29,70.0,,2016-10-27,,,,34.0,125.0,,Passed/Dead,,,,,CTI Foods add-on,Kripa Shah,,69
+30,,Picasso,2016-09-19,Trusted Network,Other Private Buyout,,82.8,612.5,,Portfolio Company,Current Investment,,,,Furniture and mattress retailer in the Midwest with 110 stores,Russ Barner,347,71
+31,73.0,,2017-02-14,,,,77.0,,,Passed/Dead,,,Risk Profile,,Divestiture from Bob Evans Farms with 524 restaurants across 18 states,Matthew Kordonowy,,62
+32,75.0,,2016-04-28,Proprietary,Public to Private ,,145.0,,,Passed/Dead,,,,Public,Casual dining restaurants,Hannah Wilson,348,74
+33,76.0,Byner,2017-02-20,Auction,Other Private Buyout,,19.4,160.0,,Passed/Dead,,,Other,ESOP,AVF add-on,Jeannie Blackwood,337,23
+34,78.0,,2017-03-01,,,,52.0,,,Passed/Dead,,CIM Received,Other,,Provider of outsourced clinical services to hospitals and health systems,Andrew Mah,,25; 77
+35,81.0,,2017-01-01,,Sponsor to Sponsor,,50.0,,,Passed/Dead,,,,,Franchisor of Checkers and Rally's restaurants with 837 units across the US,Kripa Shah,349; 350,79; 80
+36,84.0,,2017-03-01,,,,221.0,,,Passed/Dead,,,,,Chuck E. Cheese's and Peter Piper Pizza brands; 559 venues and 188 franchises across 47 states and 12 foreign countries,Russ Barner,351; 352,82; 83
+37,85.0,,2017-03-01,,,,66.3,,,Passed/Dead,,,,,Supplier of baked goods to quick service restaurants globally,Matthew Kordonowy,338,43
+38,86.0,,2017-03-01,,Sponsor to Sponsor,,27.1,,,Passed/Dead,,,,,Manufacturer of packaged ice cream and frozen novelty products,Hannah Wilson,,52
+39,88.0,,2017-03-10,Trusted Network,Public to Private ,,21.9,,,Passed/Dead,,,,,Midwestern everyday low price department store with 106 stores,Jeannie Blackwood,,87
+40,89.0,,2017-02-01,,,,185.0,,,Passed/Dead,,CIM Received,Other,,IMX opportunity,Andrew Mah,,41
+41,91.0,,2017-02-01,,,,56.2,,,Passed/Dead,,,,,Designer and marketer of branded health and wellness products; most notably kitchen countertop appliances,Kripa Shah,,90
+42,93.0,,2017-03-01,,,,41.0,,,Passed/Dead,,,,,Automotive aftermarket services platform with 290 locations in the southeastern US,Russ Barner,,92
+43,94.0,,2017-02-01,,,,40.0,,,Passed/Dead,,,,,"Casual family restaurants and bakery business across US, Canada, and Mexico",Matthew Kordonowy,,52
+44,95.0,,2017-02-01,,,,40.1,,,Passed/Dead,,,,,Pet product manufacturer,Hannah Wilson,,92
+45,96.0,Wolfpack,2017-03-27,Auction,Other Private Buyout,,28.123,,,Passed/Dead,,CIM Received,Other,,"Dental Services Organization (“DSO”) servicing practices in TX, NM, OK, LA, TN and AK",Jeannie Blackwood,353,74
+46,98.0,,2017-03-01,,,,31.6,,,Passed/Dead,,CIM Received,Risk Profile,,"Orthopedic, spine, and pain management healthcare system in the SE Michigan area",Andrew Mah,,97
+47,99.0,,2017-03-01,,,,82.0,,,Passed/Dead,,CIM Received,Other,,"Thermo spinning off some assets, NDA in process",Kripa Shah,,41
+48,100.0,,2017-03-01,,,,318.0,,,Passed/Dead,,,,,Fresh-cut fruits and vegetables wholesale business ,Russ Barner,,92
+49,101.0,Pure,2017-04-12,Auction,Sponsor to Sponsor,,92.0,900.0,,Passed/Dead,,,,CVC,Global portfolio of beauty and wellness brands,Matthew Kordonowy,354,66
+50,103.0,,2017-04-18,,,,32.9,,,Passed/Dead,,,,,America’s largest Jiffy Lube franchisee with 530 stores across 26 states,Hannah Wilson,,102
+51,104.0,,2017-04-18,,,,47.0,,,Passed/Dead,,,,,Maunfacturer and purveyor of children's toys globally,Jeannie Blackwood,,41; 92
+52,106.0,,2016-11-02,Proprietary,Other Private Buyout,,13.0,80.0,,Passed/Dead,,,Risk Profile,Founders,Give & Go add-on,Andrew Mah,355,105
+53,107.0,,2017-04-18,,,,47.0,625.0,,Passed/Dead,,IOI Submitted,Bid Rejected,Gryphon,Obstetric and Gynecology hospitalist platform in the US,Kripa Shah,,74; 22
+54,108.0,,2017-03-01,,,,1.9,18.0,,Portfolio Company,Current Investment,,,,ProPT add-on opportunity with 15 clinics in MA,Russ Barner,,
+55,109.0,,2017-04-01,Auction,Corporate Seller,,58.0,,,Passed/Dead,,,,Pamplona,"Bakery ingredients distributor, manufacturer, and service provider in North America",Matthew Kordonowy,,92
+56,110.0,,2017-04-01,,,,35.0,,,Passed/Dead,,CIM Received,Risk Profile,,"Provides health risk assessments, quality gap closure, and care management solutions to health plans",Hannah Wilson,,41
+57,112.0,,2017-04-18,,,,92.0,,,Passed/Dead,,Management Presentation,Bid Rejected,,Multi-specialty physician group,Jeannie Blackwood,,111
+58,113.0,Comfort,2017-04-21,Auction,Sponsor to Sponsor,,54.1,,,Passed/Dead,,,Risk Profile,Trilantic,Manufacturer of insoles provided to world's largest footwear brands,Andrew Mah,,66
+59,114.0,,2017-04-01,,,,22.0,,,Passed/Dead,,,,,Fast casual Mexican restaurants with 114 units across 12 states,Kripa Shah,,79
+60,116.0,Maverick,2017-04-26,Auction,Public to Private ,,262.0,,,Passed/Dead,,CIM Received,Other,KKR,Emergency medical services and transportation,Russ Barner,356,115
+61,117.0,,2017-04-18,,,,22.0,250.0,,Passed/Dead,,IOI Submitted,Too Small,,Allergy and asthma services platform with 133 locations across 23 states,Matthew Kordonowy,,39
+62,119.0,India,2017-05-19,Auction,Corporate Seller,,57.358,,,Passed/Dead,,,,Masco Corp.,"Developer of decorative residential and light commercial lighting products, ceiling fans and LED task lighting product solutions",Hannah Wilson,357,118
+63,121.0,,2017-03-01,,,,,,,Passed/Dead,,Management Presentation,Risk Profile,,Management team looking for investors to back consolidation of urgent care clinics,Jeannie Blackwood,,120
+64,122.0,Shelter,2017-03-10,Auction,Sponsor to Sponsor,,46.0,350.0,,Passed/Dead,,,On Hold,Jordan Company,Furniture retailer with 128 stores across 23 states,Andrew Mah,358,92
+65,123.0,,2017-03-13,Auction,Other Private Buyout,,79.0,600.0,,Passed/Dead,,,Risk Profile,Founders,"Direct-seller of branded wellness and nutritional products across US, Canada, Mexico, Australia, the UK, and New Zealand",Kripa Shah,359,62
+66,124.0,,2017-04-06,Auction,Other Private Buyout,,3.0,200.0,,Passed/Dead,,,Bid Rejected,Brentwood Associates,Fast casual pizza restaurants with 173 locations across 31 states,Russ Barner,360,80
+67,125.0,,2017-05-01,,,,10.4,,,Passed/Dead,,,,,Multi-channel branded snacking platform in North America currently composed of Back to Nature and Snackwell's brands ,Matthew Kordonowy,,52
+68,126.0,,2017-05-01,,,,36.8,,,Passed/Dead,,,,,Fast casual seafood restaurants with 516 units across 21 states,Hannah Wilson,,80; 43
+69,127.0,,2017-02-01,,,,28.4,,,Passed/Dead,,,,,"Independent distributor of foodservice disposables, janitorial supplies, and cleaning equipment in the Eastern US",Jeannie Blackwood,,92
+70,129.0,,2017-04-01,,,,28.2,,,Passed/Dead,,,,,"Latino-focused specialty food retailer and distributor, with 15 stores in Texas",Andrew Mah,,128
+71,130.0,,2017-04-01,,,,-1.0,,,Passed/Dead,,,,,"Retailer of pet food, supplies, and grooming services with 42 locations across the US",Kripa Shah,,80
+72,131.0,,2017-04-01,,,,14.0,,,Passed/Dead,,,,,"Franchisee of Wendy's, with 87 locations across US",Russ Barner,,80
+73,132.0,,2017-04-01,,,,26.6,,,Passed/Dead,,,,,"Upscale, full-service Mexican restaurants with 27 locations across 7 states",Matthew Kordonowy,,80
+74,133.0,,2017-04-01,,,,331.0,,,Passed/Dead,,,,,"Largest natural, organic, and specialty foods distributor in US and Canada",Hannah Wilson,,71
+75,135.0,,2017-04-01,,,,32.0,,,Passed/Dead,,,,,"Fitness platform with 38 clubs in the Mid-Atlantic and Southeast composed of the Onelife, Sport & Health, and Crunch banners",Jeannie Blackwood,,134
+76,136.0,,2017-04-01,,,,147.0,,,Passed/Dead,,,,,Public home furnishings and furniture retailer,Andrew Mah,,
+77,137.0,,2017-04-01,,,,9.5,,,Passed/Dead,,,,,Breakfast and brunch focused restaurant growth company,Kripa Shah,,80
+78,138.0,,2017-04-01,,,,36.0,,,Passed/Dead,,CIM Received,Financial Performance,,Provider of outsourced urological services,Russ Barner,,22
+79,139.0,Utes,2017-05-24,Auction,,,20.0,,,Passed/Dead,,Management Presentation,Risk Profile,Ridgemont,Technology enabled distributor of medical supplies for plasma collection centers,Matthew Kordonowy,361,79
+80,140.0,,2017-04-01,,,,11.5,,,Passed/Dead,,CIM Received,Too Small,,Fixed-wing air medical transport services,Hannah Wilson,,
+81,141.0,,2016-10-01,,,,85.0,,,Passed/Dead,,,Financial Performance,,Casual authentic Italian restaurant serving handcrafted dishes,Jeannie Blackwood,,62
+82,143.0,,2016-10-01,,,,405.0,2800.0,,Passed/Dead,,,,,Entered exclusivity period but currently pencils down due to Medicare uncertainty,Andrew Mah,,142
+83,144.0,,2016-10-01,,,,55.0,,,Passed/Dead,,,Other,,GCA add-on,Kripa Shah,,
+84,145.0,,2016-03-30,Trusted Network,Other Private Buyout,,23.0,200.0,,Passed/Dead,,,On Hold,Founders,Give and Go add-on,Russ Barner,362,52
+85,146.0,,2017-04-01,,,,7.5,60.0,,Passed/Dead,,,Bid Rejected,,ProPT add-on opportunity with ~50 clinics in MA & NH,Matthew Kordonowy,,
+86,147.0,,2017-04-01,,,,56.0,,,Passed/Dead,,Management Presentation,Other,,Private duty nursing / capitated risk / HSAs,Hannah Wilson,,
+87,148.0,,2017-05-01,,,,34.0,,,Passed/Dead,,CIM Received,Other,,Developer and manufacturer of point of care workstations,Jeannie Blackwood,,
+88,149.0,,2017-06-11,,,,38.0,,,Passed/Dead,,IOI Submitted,Bid Rejected,,Scale orthodontics platform,Andrew Mah,,66
+89,150.0,,2017-04-01,,,,297.0,,,Passed/Dead,,,,,"Apparel technology company developing, producing, branding, and marketing fibers and fabrics",Kripa Shah,,41
+90,151.0,,2017-03-15,Trusted Network,Other Private Buyout,,6.3,,,Passed/Dead,,,Bid Rejected,Founders,Give & Go add-on,Russ Barner,363,71
+91,152.0,,2017-05-01,,,,219.0,,,Passed/Dead,,,,,"Portfolio of brands including UGG, Teva, Sanuk, Hoka, and Koolaburra",Matthew Kordonowy,,74
+92,153.0,,2017-05-01,,,,35.5,,,Passed/Dead,,,,,Chain of full-service daytime cafés focused on breakfast and brunch offerings,Hannah Wilson,,22; 80
+93,154.0,,2017-06-01,,,,21.8,,,Passed/Dead,,,,,Snack brand offering whole-food protein bars,Jeannie Blackwood,,79
+94,155.0,,2017-03-01,Proprietary,Other Private Buyout,,8.4,,,Passed/Dead,,,Bid Rejected,,"AVF add-on with 16 stores (10 Ashley stores) operating in Cincinnati, Dayton, and Columbus",Andrew Mah,,
+95,157.0,,2017-06-01,,,,20.8,,,Passed/Dead,,CIM Received,Other,,Provider of consumables for L&D and NICU departments ,Kripa Shah,,74; 156
+96,158.0,,2017-06-01,,,,13.0,,,Passed/Dead,,Management Presentation,Other,Lee Equity,Behavioral health with focus on addiction services; NDA in process,Russ Barner,,74
+97,159.0,,2017-06-01,,,,46.0,,,Passed/Dead,,Management Presentation,Other,CPMG,"Vertically integrated, national care system dedicated to eating disorders; NDA in process",Matthew Kordonowy,,74
+98,160.0,,2017-06-01,,,,60.0,,,Passed/Dead,,,,,Manufacturer of branded and private label dental consumables,Hannah Wilson,,22
+99,161.0,Apex,2017-05-22,Auction,Sponsor to Sponsor,,74.0,750.0,,Passed/Dead,,Management Presentation,Financial Performance,,"Manufacturer of single-use interventional products, primarily targeted towards Interventional Radiologists",Jeannie Blackwood,364,74
+100,162.0,,2017-06-27,,,,41.6,,,Passed/Dead,,,,,Fast casual rotisserrie chicken brand with 459 restaurants across 33 states,Andrew Mah,,80; 22
+101,163.0,,2017-06-01,,,,56.0,,,Passed/Dead,,,,,Provides integrated set of services to pharma companies to drive higher rates of penetration and compliance for specialty drugs; CVS Health divestiture; NDA in process,Kripa Shah,,25
+102,164.0,,2017-04-01,,,,288.0,,,Passed/Dead,,CIM Received,Risk Profile,,Mallinckrodt spin-out of vertically integrated controlled substances generics business ,Russ Barner,,82
+103,166.0,,2017-06-01,,,,19.5,,,Passed/Dead,,CIM Received,Too Small,,Largest independent provider of on-site radiology services in California / one of largest groups in the U.S. ,Matthew Kordonowy,,165
+104,167.0,,2017-07-18,,,,28.4,265.0,,Passed/Dead,,,,,Supplier and distributor of nutrition & care products for pets,Hannah Wilson,,52
+105,168.0,,2017-05-09,Auction,Sponsor to Sponsor,,43.6,330.0,,Passed/Dead,,,On Hold,Valor Equity Partners,"Franchisee of Little Caesars, Dunkin' and Wingstop with 443 locations across the US and Mexico",Jeannie Blackwood,365,41
+106,169.0,,2017-04-01,,,,,,,Passed/Dead,,,,,1-800 CONTACTS add-on,Andrew Mah,,
+107,170.0,,2017-04-01,,,,2.3,18.5,,Passed/Dead,,LOI Submitted,Bid Rejected,,Phillips add-on,Kripa Shah,,
+108,171.0,,2017-07-28,,,,43.7,,,Passed/Dead,,,,,Operator of 36 dental restoration and dental implant treatment centers,Russ Barner,,41
+109,172.0,,2017-07-16,Auction,Sponsor to Sponsor,,59.5,800.0,,Passed/Dead,,,Bid Rejected,AEA Investors,Branded wood pellet grills & smokers,Matthew Kordonowy,366,66
+110,173.0,Jagger,2017-07-13,Auction,Sponsor to Sponsor,,40.6,,,Passed/Dead,,,Risk Profile,LGP,Largest concierge provider of membership-based private healthcare services,Hannah Wilson,367,79
+111,174.0,Frohman,2014-08-15,Auction,,,20.0,,,Passed/Dead,,,,,CTI Foods add-on; re-submitted bid to management - awaiting feedback,Jeannie Blackwood,368,39
+112,175.0,,2017-08-09,,,,40.0,,,Passed/Dead,,,,,"Designer, manufacturer, and marketer of bath accessories and home goods to retailers across North America",Andrew Mah,,52
+113,176.0,,2017-07-24,,,,63.7,,,Passed/Dead,,,,,Operator of 383 general merchandise stores across 26 states,Kripa Shah,,52
+114,177.0,,2017-08-30,,,,109.0,1350.0,,Passed/Dead,,,,,"Provider of commercial kitchen equipment, restaurant supplies & design services",Andrew Mah,,25
+115,178.0,,2017-08-09,,,,24.0,,,Passed/Dead,,,,,Provider of food and dining management services to healthcare end market (senior living and hospitals),Kripa Shah,,33
+116,179.0,,2017-06-01,,,,,,,Passed/Dead,,,Management Not Ready,,"Give & Go add-on; donut plant in Springfield, IL; current revenue of $12mm and capacity for $50-$60mm",Russ Barner,,
+117,180.0,,2017-08-11,,,,46.1,,,Passed/Dead,,CIM Received,Other,,Full-service healtcare information services vendor,Matthew Kordonowy,,66
+118,181.0,,2017-08-11,,,,43.0,,,Passed/Dead,,,,,Dental support organization with 147 offices across the eastern Unted States,Hannah Wilson,,92
+119,182.0,,2016-10-01,,,,120.0,,,Passed/Dead,,,,,Coventry's workers' comp segment; potential carve-out opportunity,Jeannie Blackwood,,
+120,183.0,,2016-10-01,,,,85.0,,,Passed/Dead,,Management Presentation,Other,,Provider of minimally invasive spine surgery operating 7 U.S. centers,Andrew Mah,,
+121,185.0,,2016-10-01,,,,12.0,,,Passed/Dead,,,,,Party City add-on; conducting due diligence,Kripa Shah,,184
+122,186.0,,2017-07-01,,,,22.6,,,Passed/Dead,,,,,Full-service casual dining concept,Andrew Mah,,39
+123,187.0,,2017-07-01,,,,67.0,,,Passed/Dead,,,,,Fast-casual Mexican restaurant,Kripa Shah,,43
+124,188.0,,2017-06-01,,,,,,,Passed/Dead,,,,,"Pure play online retailer of VMS, natural/organic personal care, and other health and wellness products",Russ Barner,,43; 39
+125,189.0,,2017-08-01,,,,156.5,,,Passed/Dead,,,,,"Family-owned and operated warehouse company offering public and contract storage in refrigerated, frozen, and dry environments",Matthew Kordonowy,,39
+126,191.0,Diamond,2017-09-05,Auction,Initial Capitalization,,240.0,2000.0,,Passed/Dead,,,Bid Rejected,Founder,Grower and distributor of fresh fruits and vegetables,Hannah Wilson,369; 370,43; 190
+127,192.0,Marlin,2016-10-01,,Initial Capitalization,,23.0,,,Passed/Dead,,IOI Submitted,Bid Rejected,,4th largest locum tenens staffing company,Jeannie Blackwood,371; 372,71
+128,193.0,,2017-04-01,,,,,,,Active,,New Deal,,Halifax,Phillips add-on,Andrew Mah,,
+129,194.0,,2017-04-01,,,,,,,Passed/Dead,,,,,Bargain Hunt add-on; re-engaging with sellers in the fall,Kripa Shah,,
+130,195.0,,2017-04-01,,,,3.0,,,Passed/Dead,,LOI Submitted,Bid Rejected,,Phillips add-on; Oklahoma based pet food distributor.  Receiving preliminary financial data,Andrew Mah,,
+131,197.0,Maltese / Stone,2017-07-07,Auction,Corporate Seller,,21.7,130.0,,Passed/Dead,,,Bid Rejected,,"Asset sale of Tyson’s kettle business, which produces sauces, dips, soups and sides",Kripa Shah,373,196
+132,199.0,,2017-04-01,,,,4.0,,,Passed/Dead,,Live Diligence,Risk Profile,,Phillips add-on; Southern California based pet food distributor,Russ Barner,,198
+133,200.0,,2016-04-13,,,,55.0,,,Passed/Dead,,,,,Owns and operates 3 steakhouse restaurant concepts,Matthew Kordonowy,,79
+134,201.0,,2017-04-01,,,,200.0,,,Passed/Dead,,,,,Purchase of Exxon assets with partner Capital Petroleum Group.  Submitted IOI on 4/24. ,Hannah Wilson,,190
+135,202.0,,2016-10-12,Proprietary,Public to Private ,,103.2,850.0,,Passed/Dead,,IOI Submitted,Financial Performance,Public,Public company that operates Pollo Tropical and Taco Cabana fast casual dining brands; submitted IOI,Jeannie Blackwood,,62
+136,203.0,,2016-02-18,,,,1.4,,,Passed/Dead,,,,,Fast casual Mediterranean restaurant,Andrew Mah,,41
+137,204.0,,2016-05-24,,,,32.0,,,Passed/Dead,,,,,"Provides cleaning, testing and repair services for commercial & industrial portable liquid and dry bulk containers",Kripa Shah,,92
+138,205.0,White,2017-06-21,Auction,Corporate Seller,543.8,246.8,1600.0,494.0,Passed/Dead,,LOI Submitted,Bid Rejected,"Foundation Consumer Healthcare, Cooper Surgical, CVC",Spin out of US and Europe women's health products,Andrew Mah,374; 375; 376; 377,43
+139,206.0,,2017-04-01,,,,120.0,,,Passed/Dead,,,,,,Kripa Shah,,74
+140,207.0,,2016-07-18,,,,87.4,,,Passed/Dead,,,,,Pure play pool equipment and solutions,Russ Barner,,82
+141,208.0,,2017-06-19,Proprietary,Other Private Buyout,,18.0,135.0,,Passed/Dead,,,Other,Founders,Give & Go add-on,Matthew Kordonowy,,
+142,209.0,,2017-06-01,Proprietary,,,2.0,,,Passed/Dead,,,Other,,Give & Go add-on; iced pound cake and crumb cake,Hannah Wilson,,
+143,210.0,,2017-06-01,,,,30.0,,,Passed/Dead,,,,,"Largest IHOP franchisee, currently operating 113 restaurants across 8 states",Jeannie Blackwood,,80
+144,211.0,,2017-09-01,,,,31.9,,,Passed/Dead,,,,,"North American contract beverage manufacturer operating facilities in Mooresville, North Carolina and Fort Worth, Texas",Andrew Mah,,60
+145,212.0,,2017-06-01,,,,100.0,,,Passed/Dead,,,,,Exclusive retailer of Verizon wireless stores; Blair facilitating one-off discussion with owner,Kripa Shah,,66
+146,213.0,,2017-08-28,Auction,,,17.0,,,Passed/Dead,,,Too Small,,Franchisor and operator of 358 homestyle cooking diners with heavy presence in Southeast. Currently owned by Sentinel,Andrew Mah,378,92
+147,214.0,Vespa,2017-08-31,,,,21.0,,,Passed/Dead,,,,,largest independent premium baked snacking brand & platform in North America,Kripa Shah,,52
+148,216.0,,2017-09-01,,,,50.8,,,Passed/Dead,,,,,Specialty apparel retailer operating 221 stores in 31 states,Russ Barner,,215
+149,217.0,,2017-06-01,,,,75.0,,,Passed/Dead,,,,,"Conglomerate of retail stores including Roses, Maxway, and Super 10, amongst others; one-off discussion with owner",Matthew Kordonowy,,
+150,218.0,,2017-09-01,,,,75.75,,,Passed/Dead,,,,,Multi-channel specialty retailer and contract manufacturer of nutritional products in the United States and internationally,Hannah Wilson,,
+151,219.0,Warrior,2017-09-12,Auction,Sponsor to Sponsor,,35.0,,,Passed/Dead,,,Risk Profile,FFL,"Dental support organiziation (DSO), owned by FFL",Jeannie Blackwood,379,52
+152,221.0,Patriot,2017-10-03,Auction,Sponsor to Sponsor,,515.0,4000.0,,Passed/Dead,,,Bid Rejected,LGP,Wholesale club operator with 215 warehouse locations and 5.2mm members,Andrew Mah,380; 381,220; 190
+153,222.0,,2017-10-03,Auction,Sponsor to Sponsor,,68.0,625.0,,Passed/Dead,,IOI Submitted,Bid Rejected,Oak Hill,"Provider of home health services, owned by Oak Hill",Kripa Shah,382; 383,92; 220
+154,224.0,,2017-08-08,Trusted Network,Other Private Buyout,,6.756756756756756,50.0,,Passed/Dead,,,Bid Rejected,Gryphon (Cakerie),"Give & Go add-on; thaw-and-sell and frozen cheesecake manufacturer for grocery & wholesale club based in Kennesaw, GA",Andrew Mah,384,223
+155,225.0,,2017-10-01,,Sponsor to Sponsor,,-1.7,,,Passed/Dead,,,Other,,Manufacturer and distributor of brownie products; Give & Go add-on,Andrew Mah,385,92
+156,227.0,Red Sox,2017-09-28,Auction,Sponsor to Sponsor,1490.0,95.0,1200.0,769.0,Passed/Dead,,,Other,Summit,Provider of care-coordination for post-acute care,Kripa Shah,386; 387; 388; 389,49; 226
+157,228.0,,2017-10-05,,,,49.0,,,Passed/Dead,,CIM received,Other,,Genetic carrier testing,Russ Barner,,118
+158,230.0,,2017-10-14,,,,25.0,,,Passed/Dead,,CIM received,Other,,Owner and operator of hospitals,Matthew Kordonowy,,229
+159,231.0,Bella,2017-09-01,Trusted Network,Sponsor to Sponsor,,73.0,,,Passed/Dead,,,Other,TA Associates,Physical therapy benefit manager in the Workers’ Comp space,Hannah Wilson,390,111
+160,233.0,Apollo 11,2017-11-01,Auction,Sponsor to Sponsor,,21.0,,,Passed/Dead,,,Too Small,Water Street,Specialty care management company focused on Oncology and Cardiology,Jeannie Blackwood,391,232
+161,234.0,,2017-09-01,,Corporate Seller,,195.0,,,Passed/Dead,,,,,Manufacturer and distributor of Nestlé confectionary products in the United States,Andrew Mah,,41
+162,235.0,,2017-09-01,,,,53.3,,,Passed/Dead,,,,,"Designer, marketer, and distributor of branded aftermarket wheels, performance tires, and accessories",Kripa Shah,,66
+163,236.0,,2017-09-07,Auction,Other Private Buyout,,40.0,,,Passed/Dead,,IOI Submitted,Risk Profile,Founders,Texas-based freestanding ED & micro-hospital operator,Andrew Mah,392,87
+164,237.0,12,2017-10-23,Auction,,,38.64,,,Passed/Dead,,,Other,Public,"Owner, operator, and franchisor of 441 sandwich shops across the United States",Kripa Shah,393,220
+165,239.0,,2017-09-08,Auction,,,43.0,,,Passed/Dead,,,Other,Public,Casual dining Tex-Mex restaurant chain with 85 locations,Russ Barner,,238
+166,240.0,,2017-11-01,,,,32.0,,,Passed/Dead,,,,,Specialty Italian foodservice distributor,Matthew Kordonowy,,33
+167,241.0,,2017-11-01,,,,7.6,,,Passed/Dead,,,,,"Manufacturer and distributor of all-natural, handcrafted bath, skin, home and cleaning products.",Hannah Wilson,,74
+168,242.0,,2017-11-01,,,,39.0,,,Passed/Dead,,,,,E-Retailer of rugs,Jeannie Blackwood,,33
+169,243.0,,2017-10-25,Auction,Other Private Buyout,,45.0,,,Passed/Dead,,,Other,,Producer of branded fresh garlic and other ingredients and spices sold in grocery retail,Andrew Mah,394,198
+170,244.0,,2017-11-01,,,,32.0,,,Passed/Dead,,,,,Manufacturer and distributor of craft yarn products,Kripa Shah,,52
+171,245.0,,2017-11-01,Auction,Sponsor to Sponsor,,24.0,,,Passed/Dead,,,,,Producer and distributor of honey,Andrew Mah,395,74
+172,247.0,Broadway,2017-03-31,Proprietary,Other Private Buyout,,18.3,,,Add On,Current Investment,,,,Closed 11/22/2017,Kripa Shah,396,246
+173,248.0,Big,2017-07-31,Proprietary,Other Private Buyout,,2.9,,,Add On,Current Investment,,,,Closed 11/22/2017,Russ Barner,,
+174,249.0,,2017-08-14,Trusted Network,Other Private Buyout,,3.6,28.8,,Passed/Dead,,,Management Not Ready,,Give & Go add-on,Matthew Kordonowy,395,74
+175,250.0,Wildcat,2017-10-31,Auction,Corporate Seller,,193.0,1900.0,,Passed/Dead,,,,Public,"Owner, operator, and franchisor of 762 convenience stores across 18 states",Hannah Wilson,365,41
+176,251.0,Energy,2017-10-17,Trusted Network,Sponsor to Sponsor,,58.0,650.0,,Passed/Dead,,,Bid Rejected,Peak Rock,Manufacturer of shelf-stable dairy-based food and beverage products,Jeannie Blackwood,385,92
+177,252.0,Athena,2017-10-18,Auction,Public to Private ,,30.8,346.5,,Passed/Dead,,,Bid Rejected,Public,Operator of over 200 owned or franchised fast-casual restaurants across 20 states,Andrew Mah,349,79
+178,253.0,Air,2017-09-13,Auction,Sponsor to Sponsor,,70.0,,,Passed/Dead,,,Too Small,Palladium,Provider of home health services / Potential combination with Blue Wolf,Kripa Shah,340,52
+179,254.0,,2017-12-11,Auction,Sponsor to Sponsor,,36.0,,,Passed/Dead,,CIM received,Other,HIG,DSO,Andrew Mah,397,74
+180,256.0,Poseidon,2017-08-23,Trusted Network,Initial Capitalization,,10.1,500.0,,Passed/Dead,,,Bid Rejected,Founders,"Online, direct to consumer luxury mattress company",Kripa Shah,398,255
+181,257.0,,2017-12-01,Auction,Sponsor to Sponsor,,68.0,,,Passed/Dead,,,Other,Audax,Public health outsourcing platform,Russ Barner,399,92
+182,258.0,Jewel,2017-12-06,Auction,Initial Capitalization,126.2,39.0,,,Passed/Dead,,,Risk Profile,Founders,"Beauty brand focused on mass face, lip, and eye products",Matthew Kordonowy,400,74
+183,259.0,Avedon,2017-09-19,Auction,Other Private Buyout,,140.0,750.0,,Passed/Dead,,,Bid Rejected,100% employee owned (ESOP),Largest professional photography company in the world,Hannah Wilson,401,77
+184,260.0,Ponderosa,2017-10-23,Trusted Network,Corporate Seller,,83.3,600.0,,Passed/Dead,,,,Dorel Industries,Manufacturer and distributor of ready-to-assemble furniture and home furnishings; operating segment within Dorel Industries,Jeannie Blackwood,402,220
+185,261.0,Alamo,2017-11-21,,Corporate Seller,,-23.0,90.0,,Passed/Dead,,,Risk Profile,,Two Aryzta plants located in IL with a combined 428K sq. ft. of manufacturing space and a NBV of $93mm / G&G add-on,Andrew Mah,403,77
+186,262.0,Dragon,2017-12-11,Auction,Sponsor to Sponsor,562.0,120.0,1500.0,600.0,Passed/Dead,,IOI Submitted,Bid Rejected,Imperial Capital Group,Canadian DSO,Kripa Shah,404,22
+187,265.0,,2018-01-17,Trusted Network,Sponsor to Sponsor,,12.5,,,Passed/Dead,,New deal,On hold,LLR Capital / Founders,Roll-up of dermatology practices / owned by LLR partners,Andrew Mah,,263; 264
+188,267.0,,2017-12-01,,,,19.3,,,Passed/Dead,,,,,Owner and operator of 45 Firebirds branded restaurants across the United States,Kripa Shah,,266
+189,268.0,,2017-12-01,,,,35.0,,,Passed/Dead,,,,,Producer and marketer of arts and crafts products,Russ Barner,,23
+190,270.0,,2017-12-01,,,,36.0,,,Passed/Dead,,,,,"Direct-to-consumer marketer of women's apparel and accessories, home products, and gift products",Matthew Kordonowy,,269
+191,271.0,Red Hawk,2018-01-26,Auction,Sponsor to Sponsor,,17.0,,,Passed/Dead,,,Risk Profile,DFW Capital Partners,Largest independent clinical research site services company focused on special populations; market leader in CNS,Hannah Wilson,405,92
+192,272.0,,,,,,,,,,,,,,,,,
+193,273.0,,,,,,,,,,,,,,,,,
+194,274.0,,2018-02-02,Auction,Sponsor to Sponsor,,,267.0,,Active,,,,Oaktree,"Electrical testing, maintenance, and commissioning services",Jeannie Blackwood,,92
+195,275.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,Venturehouse,"Provider of comprehensive, turnkey security solutions",Andrew Mah,,
+196,276.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,General Atlantic,Provider of energy efficiency and demand management programs,Kripa Shah,,
+197,277.0,,2018-02-02,Auction,Sponsor to Sponsor,,,680.0,,Active,,,,Energy Capital Partners,Specialty contractor serving the electric power and energy pipeline infrastructure markets,Russ Barner,,25
+198,278.0,,2018-02-02,Auction,Sponsor to Sponsor,,,1000.0,,Active,,,,Pamplona,Provider of remanufactured replacement parts to the automotive aftermarket,Matthew Kordonowy,,23; 22
+199,279.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,Aurora ,"Provider of cooking oil solutions to the restaurant, hospitality and foodservice markets",Jeannie Blackwood,,
+200,280.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,"Kohlberg & Company, L.L.C.",Provider of maintenance services to the transmission and distribution infrastructure grid,Andrew Mah,,
+201,281.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,Gridiron,"Managers of facilities services for retail, foodservice, and other industries",Kripa Shah,,
+202,282.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,2050.0,,Active,,,,Berkshire Partners,Roofing distributor,Russ Barner,,25
+203,284.0,,2018-02-02,Trusted Netwok,Sponsor to Sponsor,,,1100.0,,Active,,,,TA ,Info services with focus on B2B sales,Matthew Kordonowy,,283
+204,285.0,,2018-02-02,Trusted Netwok,Corporate Seller,,,600.0,,Active,,,,Publicly Traded,"Legal, risk and compliance consulting platform",Jeannie Blackwood,,22
+205,286.0,,2018-01-19,Auction,Sponsor to Sponsor,,,,,Active,,,,Warburg,Sales and marketing services for the consumer goods industry,Andrew Mah,,238
+206,287.0,,2018-01-15,Auction,Other Private Buyout,,,480.0,,Active,,,,Mgmt,Underwriting software for financial institutions ,Kripa Shah,,283
+207,289.0,,2018-01-15,Auction,Sponsor to Sponsor,,,1130.0,,Active,,,,LRR Partners,Leading designer and manufacturer of high-end metal cards ,Russ Barner,,288
+208,290.0,,2018-01-15,Auction,Other Private Buyout,,,300.0,,Active,,,,Advantage Capital,"Manufacturer and designer of cards for gift cards, loyalty programs and hospitality ",Matthew Kordonowy,,220
+209,292.0,,2018-01-15,Auction,Other Private Buyout,,,750.0,,Active,,,,Privately Held,Financial advisor and insurance broker marketing software and related marketing services,Jeannie Blackwood,,291
+210,294.0,,2018-01-05,Trusted Netwok,Sponsor to Sponsor,,,,,Active,,,,GS Merchant Banking,Outsourced security services,Jeannie Blackwood,,293
+211,295.0,,2018-01-05,Trusted Netwok,Sponsor to Sponsor,,,300.0,,Active,,,,Comvest,Fire and security systems integration,Jeannie Blackwood,,22
+212,296.0,,2017-12-07,Trusted Netwok,Sponsor to Sponsor,,,500.0,,Active,,,,Audax,Promotional products marketing services,Jeannie Blackwood,,66
+213,297.0,,2018-01-18,Auction,Sponsor to Sponsor,,,500.0,,Active,,,,Charlesbank,Telecommunications services,Jeannie Blackwood,,
+214,298.0,,2018-01-18,Auction,Sponsor to Sponsor,,,600.0,,Active,,,,Riverside,Holding company for 11 service-based franchise organizations,Jeannie Blackwood,,92; 66
+215,26.0,,2018-01-18,Auction,Sponsor to Sponsor,,,1250.0,,Active,,,,KPS Capital Partners,Wire harness/control box manufacturer,Jeannie Blackwood,,25
+216,299.0,,2017-12-07,Auction,Sponsor to Sponsor,,,1600.0,,Active,,,,Leonard Green,Food processing cleaning and sanitation services,Jeannie Blackwood,,22
+217,300.0,,2017-12-07,Auction,Sponsor to Sponsor,,,150.0,,Dead,,,,Aquiline Capital,Payments ISV,Jeannie Blackwood,,92
+218,301.0,,2017-12-03,Auction,Corporate Seller ,,,200.0,,Active,,,,Public,IT and transformation services for cap markets firms,Jeannie Blackwood,,111
+219,302.0,,2017-11-26,Auction,Other Private Buyout,,,,,Active,,,,Privately Held,Provides index-based ETF and mutual fund products,Jeannie Blackwood,,190
+220,303.0,,2017-11-12,Auction,Sponsor to Sponsor,,,450.0,,Dead,,,,GA / Stonepoint,Broker dealer operating in the fixed income capital markets ,Jeannie Blackwood,,134
+221,304.0,,2017-11-12,Auction,Sponsor to Sponsor,,,,,Active,,,,Kayne Anderson,Bank software,Jeannie Blackwood,,288
+222,306.0,,2017-12-16,Auction,Sponsor to Sponsor,,,,,Active,,,,"GS, Insight Venture, Pritzker, Huizenga",Tech services,Jeannie Blackwood,,305
+223,307.0,,2017-04-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,NTT Communications,Managed IT Services,Jeannie Blackwood,,305
+224,309.0,,2018-01-18,Auction,,,,250.0,,,,,,,Supply chain consulting,Jeannie Blackwood,,308
+225,310.0,,2017-09-29,Auction,Sponsor to Sponsor,,,402.5,,Dead,,,,Charlesbank,Value-added distributor of public safety uniforms and gear,Jeannie Blackwood,,74
+226,311.0,,2017-09-10,Auction,Corporate Seller,,,174.0,,Dead,,,,Fintrax,Payment processing solutions,Jeannie Blackwood,,288
+227,312.0,,2017-11-12,Auction,Sponsor to Sponsor,,,327.0,,Dead,,,,Centre Partners,Provider of tech-enabled employee benefits and retirement services,Jeannie Blackwood,,66
+228,313.0,,2017-12-01,Auction,Sponsor to Sponsor,,,280.0,,Dead,,,,Greenbriar,"Nationwide distributor of fluid conveyance, measurement, and control products ",Jeannie Blackwood,,92
+229,314.0,,2017-07-30,Trusted Netwok,Corporate Seller,,,530.0,,Active,,,,Public,TIC,Jeannie Blackwood,,52
+230,315.0,,2017-08-04,Auction,Sponsor to Sponsor,,,500.0,,Dead,,,,Waud Capital,Outsourced testing solutions,Jeannie Blackwood,,
+231,316.0,,2017-08-04,Auction,Sponsor to Sponsor,,,1010.0,,Dead,,,,Hankyul Invest,Nuclear waste disposal and reactor decommissioning,Jeannie Blackwood,,41
+232,319.0,,2017-10-24,Auction,Sponsor to Sponsor,,,1040.0,,Dead,,,,Hubbell Incorporated,Smart infrastructure solutions provider serving utilities,Jeannie Blackwood,,317; 318
+233,320.0,,2017-07-30,Auction,Sponsor to Sponsor,,,1090.0,,Dead,,,,Ares,Systems integration,Jeannie Blackwood,,
+234,322.0,,2017-11-19,Auction,Sponsor to Sponsor,,,320.0,,Dead,,,,Flexpoint,Outsourced CFO Services,Jeannie Blackwood,,23; 321
+235,323.0,,2017-08-04,Trusted Netwok,Other Private Buyout,,,,,Dead,,,,Privately Held,Consumer Finance,Jeannie Blackwood,,305
+236,325.0,,2017-09-10,Auction,Sponsor to Sponsor,,,300.0,,Dead,,,,Trivest,"Legal process outsourcing, eDiscovery",Jeannie Blackwood,,324
+237,326.0,,2017-09-10,Auction,Sponsor to Sponsor,,,,,Dead,,,,Shamrock,"Legal process outsourcing, eDiscovery",Jeannie Blackwood,,52
+238,327.0,,2017-08-06,Auction,Sponsor to Sponsor,,,260.0,,Dead,,,,Yukon Capital,Environmental engineering solutions,Jeannie Blackwood,,
+239,328.0,,2017-09-01,Trusted Netwok,Sponsor to Sponsor,,,,,Dead,,,,Audax,Route based grease trap cleaning business ,Jeannie Blackwood,,92
+240,329.0,,2017-11-05,Auction,Sponsor to Sponsor,,,1450.0,,Dead,,,,Altran,R&D engineering services,Jeannie Blackwood,,62
+241,330.0,,2017-08-04,Auction,Corporate Seller,,,1170.0,,Dead,,,,Baring Private Equity Asia,Tech-enabled testing and assessment,Jeannie Blackwood,,25
+242,331.0,,2017-11-05,Auction,Sponsor to Sponsor,,,235.0,,Dead,,,,CIVC,Utility services provider in Pac Northwest and Intermountain West,Jeannie Blackwood,,92
+243,332.0,,2017-10-20,Auction,Sponsor to Sponsor,,,260.0,,Dead,,,,Long Point,Engineering consulting platform,Jeannie Blackwood,,52
+244,333.0,,2017-05-17,Auction,Other Private Buyout,,,,,Dead,,,,Privately Held,Language and Technology,Jeannie Blackwood,,82
+245,335.0,,2017-03-17,Auction,Sponsor to Sponsor,,,,,Dead,,,,Estancia,Wealth management RIA,Jeannie Blackwood,,334
+246,336.0,,2017-03-17,Auction,Sponsor to Sponsor,,,300.0,,Dead,,,,Bessemer Venture,Wealth management RIA,Jeannie Blackwood,,74
+247,337.0,,2017-09-17,Auction,Sponsor to Sponsor,,,207.0,,Dead,,,,Pegasus Capital Advisors,Food recycling,Jeannie Blackwood,,52
+248,339.0,,2017-08-06,Auction,Corporate Seller,,,350.0,,Dead,,,,Pearl Companies,MGA writing nonstandard auto insurance policies,Jeannie Blackwood,,338
+249,340.0,,2017-11-05,Auction,,,,240.0,,,,,,,Utility services provider,Jeannie Blackwood,,92
+250,341.0,,2017-03-17,Trusted Netwok,Other Private Buyout,,,360.0,,Closed By THL,,,,"Continental, etc. ",Wealth management RIA,Jeannie Blackwood,,220
+251,342.0,,2017-08-04,Auction,Sponsor to Sponsor,,,930.0,,Dead,,,,Norwest,Battery recycling,Jeannie Blackwood,,220
+252,343.0,,2017-04-17,Auction,Other Private Buyout,,,,,Dead,,,,E*TRADE,Wealth management RIA,Jeannie Blackwood,,288
+253,344.0,,2017-08-13,Auction,Sponsor to Sponsor,,,,,Dead,,,,Onex,Convention and venue management,Jeannie Blackwood,,92
+254,345.0,,2017-09-10,Auction,Sponsor to Sponsor,,,859.0,,Dead,,,,Dometic Group,"Vessel control, fuel systems, and boat system integration",Jeannie Blackwood,,71; 23
+255,346.0,,2017-09-10,Auction,Sponsor to Sponsor,,,450.0,,Dead,,,,Odyssey Investment ,Outsourced equipment and service provider to midstream pipeline market,Jeannie Blackwood,,92
+256,347.0,,2017-07-30,Auction,Sponsor to Sponsor,,,,,Dead,,,,Caltius,Facilities outsourcing,Jeannie Blackwood,,
+257,348.0,,2017-07-30,Auction,Sponsor to Sponsor,,,240.0,,Dead,,,,New Mountain,System of systems technology for car wash industry,Jeannie Blackwood,,324
+258,349.0,,2017-07-17,Auction,Sponsor to Sponsor,,,720.0,,Dead,,,,FFL Partners,Reverse Mortgages,Jeannie Blackwood,,220
+259,351.0,,2017-07-17,Auction,Corporate Seller,,,,,Dead,,,,Public,Insurance Services,Jeannie Blackwood,,350
+260,352.0,,2017-05-17,Trusted Netwok,Corporate Seller,,,950.0,,Active,,,,Elior Group,Foodservice management and catering,Jeannie Blackwood,,52
+261,353.0,,2016-09-01,Trusted Netwok,Other Private Buyout,,,650.0,,Closed By THL,,,,Founder,Mortgage lending,Jeannie Blackwood,,41
+262,354.0,,2017-08-20,Auction,Other Private Buyout,,,,,Dead,,,,3i,"Self-serve vended luggage carts, electronic lockers, commercial strollers and massage chairs",Jeannie Blackwood,,66
+263,356.0,,2017-09-10,Trusted Netwok,Sponsor to Sponsor,,,110.0,,Active,,,,"Akamai, etc.",Advertising technology,Jeannie Blackwood,,355
+264,357.0,,2017-08-20,Auction,Other Private Buyout,,,,,Dead,,,,Thoma Bravo,Software and billing provider for the health and fitness industry,Jeannie Blackwood,,318
+265,358.0,,2017-07-17,Auction,Sponsor to Sponsor,,,,,Dead,,,,Capgemini,Digital Transformation,Jeannie Blackwood,,220
+266,359.0,,2017-07-30,Auction,Sponsor to Sponsor,,,1470.0,,On Hold,,,,Platinum,Construction fastening solutions,Jeannie Blackwood,,92
+267,360.0,,2017-08-13,Auction,Sponsor to Sponsor,,,870.0,,On Hold,,,,Aurora ,Relocation and moving services,Jeannie Blackwood,,
+268,361.0,,2017-07-17,Auction,Sponsor to Sponsor,,,,,Dead,,,,First Data,Merchant processing,Jeannie Blackwood,,82
+269,362.0,,2017-07-17,Auction,Other Private Buyout,,,,,Dead,,,,Privately Held,RIA Technology Platform,Jeannie Blackwood,,283
+270,363.0,,2017-05-17,Auction,Other Private Buyout,,,,,Dead,,,,Nasdaq,Analytics for institutional investors,Jeannie Blackwood,,338
+271,364.0,,,Auction,Sponsor to Sponsor,,,,,Dead,,,,Olympus,Staffing,Jeannie Blackwood,,305
+272,365.0,,2017-07-17,Auction,Sponsor to Sponsor,,,,,Dead,,,,Carlyle,Online payroll and benefits,Jeannie Blackwood,,
+273,366.0,,2017-06-17,Auction,Sponsor to Sponsor,,,650.0,,Dead,,,,Eurofins,Scientific Services,Jeannie Blackwood,,92
+274,367.0,,2017-07-17,Auction,Corporate Seller,,,540.0,,Dead,,,,Wipro,Datacenter and Cloud Services,Jeannie Blackwood,,82
+275,368.0,,2017-05-17,Auction,Other Private Buyout,,,420.0,,Dead,,,,Privately Held,"Governance, risk management, and compliance advisory",Jeannie Blackwood,,92
+276,369.0,,2017-05-17,Auction,Other Private Buyout,,,531.0,,Dead,,,,Apax,IT Consulting,Jeannie Blackwood,,41
+277,370.0,,2017-01-17,Trusted Netwok,Corporate Seller,,,,,Dead,,,,Softbank,B2B wireless services,Jeannie Blackwood,,305
+278,371.0,,2017-05-01,Auction,Corporate Seller,,,202.0,,Dead,,,,Marsh & McLennan,Managing General Agency,Hannah Wilson,,338
+279,372.0,,2017-07-01,Auction,,,,,,Dead,,,,,Money Market Fund Portal,Hannah Wilson,,283
+280,373.0,,2017-07-17,Auction,,,,820.0,,Dead,,,,,Automotive reconditioning,Hannah Wilson,,23
+281,374.0,,2017-11-16,Auction,,,,,,Dead,,,,,Merchant acquirer,Hannah Wilson,,305
+282,375.0,,2017-07-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,"Ascension, Echo",Payments ISV,Hannah Wilson,,305
+283,376.0,,2017-04-01,Auction,Sponsor to Sponsor,,,610.0,,Dead,,,,Littlejohn,Environmental services,Hannah Wilson,,74
+284,377.0,,2017-05-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,American Infrastructure Funds,Waste Transport Services,Hannah Wilson,,43
+285,378.0,,2017-05-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Leonard Green,Underground utility locating,Hannah Wilson,,
+286,379.0,,2017-12-01,Auction,Sponsor to Sponsor,,,269.0,,Dead,,,,Silverlake / GA,Senior care referral services,Hannah Wilson,,305
+287,380.0,,2017-05-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,RWS Holdings,Globalization services,Hannah Wilson,,66
+288,381.0,,2017-05-01,Auction,Sponsor to Sponsor,,,36.4,,Dead,,,,AE Industrial,Energy Services,Hannah Wilson,,92; 23
+289,382.0,,2017-04-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Platinum Equity,Portable sanitation,Hannah Wilson,,92; 66
+290,,Project Ignition,2017-03-01,Auction,,,,,,Dead,,,,,,Hannah Wilson,,283
+291,383.0,,2017-03-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Thoma Bravo,Asset Management,Hannah Wilson,,305
+292,385.0,,2017-11-01,Proprietary,Corporate Seller,,,599.0,,Dead,,,,CD&R,Financial services & tech,Hannah Wilson,,384
+293,386.0,,2017-04-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Bernhard Capital,Environmental services,Hannah Wilson,,305
+294,387.0,,2017-05-01,Auction,Sponsor to Sponsor,,,105.0,,Dead,,,,Vista Equity,Payment and billing solutions,Hannah Wilson,,283
+295,388.0,,2016-12-01,Proprietary,Corporate Seller,,,,,Dead,,,,Discovery,K-12 Digital Education,Andrew Mah,,305
+296,389.0,,2017-04-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Vista Equity,Wealth management software,Kripa Shah,,
+297,390.0,,2017-03-01,Auction,Other Private Buyout,,,66.0,,Dead,,,,Privately Held,Payment Security Technology,Russ Barner,,27
+298,391.0,,2017-02-01,Auction,Sponsor to Sponsor,,,650.0,,Dead,,,,"Kohlberg & Company, L.L.C.",Travel visas,Matthew Kordonowy,,66
+299,392.0,,2017-01-01,Auction,Sponsor to Sponsor,,,1900.0,,Dead,,,,Platinum,Criminal justice technology,Andrew Mah,,190
+300,393.0,,2017-04-01,Auction,Corporate Seller,,,870.0,,Dead,,,,ThermoFisher,Environmental instruments,Kripa Shah,,41
+301,394.0,,2017-03-01,Auction,Sponsor to Sponsor,,,265.0,,Dead,,,,Vantiv / Worldpay,B2B Payments and Software,Russ Barner,,66
+302,395.0,,2017-02-01,Auction,Sponsor to Sponsor,,,1470.0,,Dead,,,,CCMP,Aftermarket auto,Matthew Kordonowy,,22; 220
+303,397.0,,2017-03-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Edgestone,Rental services,Andrew Mah,,396
+304,398.0,,2017-02-01,Auction,Sponsor to Sponsor,,,530.0,,Dead,,,,Gridiron,Aftermarket auto,Kripa Shah,,23
+305,399.0,,2017-02-01,Auction,Sponsor to Sponsor,,,750.0,,Dead,,,,"Highlander, etc.",Aftermarket auto,Russ Barner,,196
+306,400.0,,2017-02-01,Auction,Sponsor to Sponsor,,,165.0,,Dead,,,,Audax,Industrial cleaning,Matthew Kordonowy,,52
+307,401.0,,2016-11-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Gryphon,Liquid environmental waste,Andrew Mah,,66
+308,402.0,,2017-03-01,Auction,Sponsor to Sponsor,,,760.0,,Dead,,,,Permira,"Heating, ventilation and AC",Kripa Shah,,23
+309,403.0,,2017-02-01,Auction,Other Private Buyout,,,232.0,,Dead,,,,Privately Held,Environmental remediation and  William Blair,Russ Barner,,66
+310,404.0,,2017-01-01,Auction,Corporate Seller,,,,,Dead,,,,Advent Software,Wealth management,Matthew Kordonowy,,190
+311,406.0,,2017-01-01,Auction,Sponsor to Sponsor,,,300.0,,Dead,,,,American Capital Equity,Inventory verification and retail,Andrew Mah,,405
+312,407.0,,2016-11-01,Auction,Corporate Seller,,,,,Dead,,,,GTCR,Merchant acquirer,Kripa Shah,,283
+313,408.0,,2016-11-01,Auction,Other Private Buyout,,,,,Dead,,,,NAB Holdings,Merchant acquirer,Russ Barner,,305
+314,409.0,,2016-11-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Augury,Merchant acquirer,Matthew Kordonowy,,305
+315,410.0,,2016-12-01,Auction,Corporate Seller,,,,,Dead,,,,Public,Transportation logistics,Andrew Mah,,43
+316,411.0,,2016-11-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,Resurgent Holding,Asset recovery and management services,Kripa Shah,,
+317,413.0,,2016-11-01,Auction,Corporate Seller,,,,,Dead,,,,Finastra,Financial technology,Russ Barner,,412
+318,414.0,,2016-11-01,Auction,Sponsor to Sponsor,,,350.0,,Dead,,,,JF Lehman,Compliance and environmental services,Matthew Kordonowy,,92
+319,415.0,,2016-10-01,Proprietary,Corporate Seller,,,680.0,,Dead,,,,FIS,Insurance software provider,Andrew Mah,,305
+320,416.0,,2016-09-01,Auction,Other Private Buyout,,,,,Dead,,,,"Sagard Holdings, Fairfax Capital",Sporting goods,Kripa Shah,,111
+321,417.0,,2016-09-01,Auction,Sponsor to Sponsor,,,,,Dead,,,,AR Capital,Small business lender,Russ Barner,,

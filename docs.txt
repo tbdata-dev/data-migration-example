@@ -1,0 +1,30 @@
+SQLAlchemy
+    https://docs.sqlalchemy.org/en/20/orm/tutorial.html
+    https://docs.sqlalchemy.org/en/20/core/type_basics.html
+    https://docs.sqlalchemy.org/en/20/orm/basic_relationships.html
+    https://docs.sqlalchemy.org/en/20/orm/session_api.html
+
+Pandas
+    https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+
+Datetime
+    https://docs.python.org/3/library/datetime.html#datetime.datetime.strptime
+    https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+
+NaN Handling
+    https://docs.python.org/3/library/math.html#math.isnan
+    https://pandas.pydata.org/docs/reference/api/pandas.isna.html
+
+Regex
+    https://docs.python.org/3/library/re.html#re.split
+    https://docs.python.org/3/library/re.html
+
+Logging
+    https://docs.python.org/3/library/logging.html#logging.basicConfig
+    https://docs.python.org/3/howto/logging.html#logging-to-a-file
+
+Phone Number Library
+    https://pypi.org/project/phonenumbers/
